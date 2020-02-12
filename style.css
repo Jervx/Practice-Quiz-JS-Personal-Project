@@ -44,17 +44,17 @@ body{
     transition-duration: 0.3s;
     border-style: none;
     padding: 10px 20px 10px 20px;
-    border: 1px solid rgb(112, 181, 241);
-    background-color: rgb(234, 240, 255);
-    color:rgb(83, 83, 83);
+    background-color: rgb(62, 81, 97);
+    color:rgb(219, 219, 219);
     font-size:14px;
     border-radius: 5px;
     margin:20px;
 }
 
+
 #pane button:hover{
     transition-duration: 0.2s;
-    background-color: rgb(29, 126, 211);
+    background-color: rgb(13, 73, 70);
     color:white;
 }
 
@@ -184,9 +184,8 @@ nav{
         transition-duration: 0.3s;
         border-style: none;
         padding: 10px 20px 10px 20px;
-        border: 1px solid rgb(29, 126, 211);
-        background-color: rgb(255, 255, 255);
-        color:rgb(83, 83, 83);
+        background-color: rgb(62, 81, 97);
+        color:rgb(219, 219, 219);
         font-size:14px;
         border-radius: 5px;
         margin:20px;
@@ -194,7 +193,7 @@ nav{
 
     #pane button:hover{
         transition-duration: 0.2s;
-        background-color: rgb(29, 126, 211);
+        background-color: rgb(13, 73, 70);
         color:white;
     }
     
