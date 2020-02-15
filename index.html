@@ -13,19 +13,16 @@
         let score = 0, pointer = 0;
         let answer = "";
         let remark = 0.0;
-
         function compute() {
             remark = Math.round((score / getDataSize()) * 100.0 * 100) / 100;
         }
-
         function check() {
             let userAnswer = document.getElementById("answer").value;
             if (testAnswer(userAnswer)) correct();
             else wrong();
+            if (pointer === data.length) done();
         }
-
         function quitQuiz(){loadDefaults();}
-
     </script>
 </head>
     <body>
@@ -35,13 +32,22 @@
             </div>
         </nav>
         <div id="pane">
+            <div id="blocks1">
+                <div class="contentPane" id="con1">
+                    <h3 id="contentPane-Title">Start Learning</h3>
+                    <p>We have our own learning strategies, sometimes we need a lot of time to learn and fully understand something.</p>
+                </div>
+                <div class="contentPane" id="con2">
+                    <h3  id="contentPane-Title">Master Your Lessons</h3>
+                    <p>After Learning From School, Study it again until you master it! Semetimes repeatedly reading something will help you a lot.</p>
+                </div>
+                <div class="contentPane" id="con3">
+                    <h3  id="contentPane-Title">Test Your Learning</h3>
+                    <p>Now After Learning And Mastering the lessons, you need to verify if you really learned something so we provided a sets of quetions for you.</p>
+                </div>
+            </div>
             <p id="questionHolder" style="font-size:25px;"><span style="font-weight:bold; font-size:28;"></p>
-            <button onclick="showSubjects()">Show Subjects</button>
-            <br><br>
-            <p>NOTE
-                <br>
-                <p style="font-size: 14px;">If more than one answer is being asked, separate them with ( , ) comma</p>
-            </p>
+            <button onclick="showSubjects()">Show Subjects ⎇ </button>
         </div>
         <footer>
             <center>
