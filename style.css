@@ -7,7 +7,7 @@
 
 body{
     /*background-color: #ffa208;*/
-    background-color:#039be5
+    background-color:#f6eec9;
 }
 
 #pane{
@@ -23,15 +23,21 @@ body{
 }
 
 #pane input{
+    transition-duration: 0.2s;
     margin-top: 30px;
     border-style:none;
-    border-bottom:1px solid rgb(165, 165, 165);
+    border-bottom:1px solid rgb(218, 218, 218);
     padding: 10px 30px 10px 30px ;
     color:rgb(94, 94, 94);
     width:  400px;
     font-size: 14px;
     background-color: inherit;
     text-align: center;
+}
+
+#pane input:focus{
+    transition-duration: 0.5s;
+    border-bottom:1px solid rgb(165, 165, 165);
 }
 
 #pane p{
@@ -71,23 +77,25 @@ body{
     transition-duration: 0.3s;
     border-style: none;
     padding: 10px 20px 10px 20px;
-    background-color: #039be5;
-    color:white;
+    /*background-color: #039be5;*/
+    background-color:#6e5773;
+    color:rgb(255, 255, 255);
     font-size:15px;
     border-radius: 5px;
-    box-shadow: 0px 5px 20px 1px rgba(128, 128, 128, 0.329);
+    box-shadow: 0px 5px 20px 1px rgba(172, 172, 172, 0.329);
+    border-bottom:2px solid #e1f4f3;
     margin:20px;
 }
 
 
 #pane button:hover{
     transition-duration: 0.2s;
-    background-color: #008dd1;
-    color:rgb(255, 255, 255);
+    background-color:#85718a;
+    color:rgb(246, 246, 246);
 }
 
 #pane{
-    box-shadow: 1px 1px 10px 1px rgb(95, 95, 95);
+    box-shadow: 1px 1px 10px 1px rgba(207, 207, 207, 0.335);
     border-bottom: 2px solid rgb(0, 79, 99);
     border-top: 2px solid rgb(0, 79, 99);
     border-radius: 5px;
@@ -155,6 +163,10 @@ a:hover{
 #links{
     justify-content: space-around;
 }
+#contentPane-Title{
+    color:rgb(87, 87, 87);
+    margin-bottom:8%;
+}
 
 #links img{
     width:40px;
@@ -185,13 +197,29 @@ nav{
 
 
 @media screen and (max-width:480px) {
+
+    #blocks1{
+        display: block;
+        grid-template-columns: auto auto auto;
+        grid-gap: 10px;
+        background-color: inherit;
+        background-color: #eceff1;
+        padding:2%;
+    }
+
+
+    #contentPane-Title{
+        color:rgb(87, 87, 87);
+        margin-bottom:10%;
+    }
+
     #pane{
         margin-left: 5%;
         margin-right: 5%;
         margin-top:6%;
         text-align: center;
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 30px;
+        padding-bottom: 30px;
         padding-left:20px;
         padding-right: 20px;
         background-color:rgba(250, 250, 250, 0.973);
