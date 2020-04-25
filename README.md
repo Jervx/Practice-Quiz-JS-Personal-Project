@@ -14,5 +14,5 @@ This website i made for me to practice quiz before exam, Feel free to use this t
 
 ```
 For me this is so effective, because by answering the question repeatedly everyday
-without writing it in a physical paper/notebook it let me to master every question/
+without writing it in a physical paper/notebook it let me to master every question
 ```
