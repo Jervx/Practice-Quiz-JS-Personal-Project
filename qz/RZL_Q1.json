@@ -149,7 +149,8 @@
             "no": "21",
             "question": "Rizal godfather when he was baptised as catholic",
             "answer": [
-                ["Fr. Pedro Casanas","Pedro Casanas"]
+                "Fr. Pedro Casanas",
+                "Pedro Casanas"
             ]
         },
         {
