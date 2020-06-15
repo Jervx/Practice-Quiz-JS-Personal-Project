@@ -1,11 +1,597 @@
 {
-    "Subj_Name":"Rizal",
-    "Quiz_Details":"The Quiz is all about the Life & Works of Dr. Jose Rizal ",
-    "Quiz_No":"Quiz 1",
-    "Quiz_Questions":[
+    "Subj_Name": "Rizal",
+    "Quiz_Details": "The Quiz is all about the Life & Works of Dr. Jose Rizal ",
+    "Quiz_No": "Quiz 1",
+    "Quiz_Questions": [
         {   
-            "question":" is a type (or class) for objects whose behavior is defined by a set of value and a set of operations.",
-            "answer":["Abstract Data type","Abstract Data type(ADT)","ADT"]
+            "no": "0",
+            "question": " is a type (or class) for objects whose behavior is defined by a set of value and a set of operations.",
+            "answer": [
+                "Abstract Data type",
+                "Abstract Data type(ADT)",
+                "ADT"
+            ]
+        },
+        {
+            "no": "1",
+            "question": "_______ - The enforced or compulsory manual labor required for every male native between 16 to 60 years of age.",
+            "answer": [
+                "Polo"
+            ]
+        },
+        {
+            "no": "2",
+            "question": "__________ - Tax imposed on every individual or family to pay to the colonial government as a symbol of vassalage to Spain",
+            "answer": [
+                "Tribute"
+            ]
+        },
+        {
+            "no": "3",
+            "question": "It is the system of landholding wherein individuals loyal to Spain were granted land as trustees",
+            "answer": [
+                "Encomienda"
+            ]
+        },
+        {
+            "no": "4",
+            "question": "__________ - the natives were banned from engaging in any form of intercourse with their Asian neighbors",
+            "answer": [
+                "Isolation Policy"
+            ]
+        },
+        {
+            "no": "5",
+            "question": "__________ - the colonizers provoked the natives to fight among themselves thus, strengthening their hold of power",
+            "answer": [
+                "Divide and Rule"
+            ]
+        },
+        {
+            "no": "6",
+            "question": "____________ - was Jose’s first \r\nnon-formal teacher",
+            "answer": [
+                "Dona Teodora"
+            ]
+        },
+        {
+            "no": "8",
+            "question": "Who does Jose learned prayers and the alphabet at the age of three",
+            "answer": [
+                "Dona Teodora"
+            ]
+        },
+        {
+            "no": "9",
+            "question": "Maestro _____ _____ became the hero’s tutor in Spanish and Latin. He was a classmate of Don Francisco",
+            "answer": [
+                "Leon Monroy"
+            ]
+        },
+        {
+            "no": "10",
+            "question": "Rizal Youngest Sister",
+            "answer": [
+                "Soledad"
+            ]
+        },
+        {
+            "no": "11",
+            "question": "Rizal Sister whom he learned the value of sisterly love",
+            "answer": [
+                "Conception"
+            ]
+        },
+        {
+            "no": "12",
+            "question": "Rizal Sister who inherited his properties in Dapitan",
+            "answer": [
+                "Trinidad"
+            ]
+        },
+        {
+            "no": "13",
+            "question": "Rizal Epileptic Sister",
+            "answer": [
+                "Josefa"
+            ]
+        },
+        {
+            "no": "14",
+            "question": "Rizal Eldest Sister",
+            "answer": [
+                "Saturnina"
+            ]
+        },
+        {
+            "no": "15",
+            "question": "It is the poem wher Rizal expressed the importance of loving ones native language",
+            "answer": [
+                "To My Fellow Children"
+            ]
+        },
+        {
+            "no": "16",
+            "question": "Rizal teacher in Binan",
+            "answer": [
+                "Maestro Justiniano"
+            ]
+        },
+        {
+            "no": "17",
+            "question": "Rizal private teacher who honed his skillfulness in latin",
+            "answer": [
+                "Leon Monroy"
+            ]
+        },
+        {
+            "no": "18",
+            "question": "It is a form of heavy taxation",
+            "answer": [
+                "Tribute"
+            ]
+        },
+        {
+            "no": "19",
+            "question": "Rizal Complete Birthday",
+            "answer": [
+                "June 19, 1861"
+            ]
+        },
+        {
+            "no": "20",
+            "question": "Rizal First private tutor",
+            "answer": [
+                "Maestro Celestino"
+            ]
+        },
+        {
+            "no": "21",
+            "question": "Rizal godfather when he was baptised as catholic",
+            "answer": [
+                "Fr. Perdo Casanas"
+            ]
+        },
+        {
+            "no": "22",
+            "question": "He pioneered the secularization of parishes",
+            "answer": [
+                "Fr. Pedro Pelaez"
+            ]
+        },
+        {
+            "no": "23",
+            "question": "The preist who baptised Rizal",
+            "answer": [
+                "Fr. Rufino Collantes"
+            ]
+        },
+        {
+            "no": "24",
+            "question": "True or False<br>Rizal Uses Charcoal in his writing session",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "25",
+            "question": "True or False<br>Rizal Uses Chalk in his writing session",
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "no": "26",
+            "question": "Dona Teodora alleged conspired for poisoning her sister-in law",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "27",
+            "question": "What is age of Rizal when he experienced the first Rizal",
+            "answer": [
+                "4"
+            ]
+        },
+        {
+            "no": "28",
+            "question": "He taught Rizal in drawing",
+            "answer": [
+                "Jose Alberto"
+            ]
+        },
+        {
+            "no": "29",
+            "question": "He taugh Rizal in the Rudiments of wrestling",
+            "answer": [
+                "Manuel"
+            ]
+        },
+        {
+            "no": "30",
+            "question": "Rizal painting partner under the instruction of Mang Juancho",
+            "answer": [
+                "Jose Guevarra"
+            ]
+        },
+        {
+            "no": "31",
+            "question": "He almost broke Rizal arm during arm wrestling",
+            "answer": [
+                "Andres Salandan"
+            ]
+        },
+        {
+            "no": "32",
+            "question": "True or False<br>Gregorio was influenced Rizal in fencing",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "33",
+            "question": "True or False<br>Mercado means Market",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "34",
+            "question": "It is a forced Labor rendered by all males to the government",
+            "answer": [
+                "Polo"
+            ]
+        },
+        {
+            "no": "35",
+            "question": "True or False<br>Moth & Flame story reminded jose to pray his mother",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "36",
+            "question": "Jose Rizal second private tutor",
+            "answer": [
+                "Maestro Lucas Padua"
+            ]
+        },
+        {
+            "no": "37",
+            "question": "He gave wise direction in the studies of Jose",
+            "answer": [
+                "Uncle Jose Alberto"
+            ]
+        },
+        {
+            "no": "38",
+            "question": "He instilled into the mind of Jose the love for education",
+            "answer": [
+                "Uncle Gregorio"
+            ]
+        },
+        {
+            "no": "39",
+            "question": "the mode of transportation",
+            "answer": [
+                "Carromata"
+            ]
+        },
+        {
+            "no": "40",
+            "question": "Formal teacher of Rizal",
+            "answer": [
+                "Maestro Justiniano Aquino Cruz"
+            ]
+        },
+        {
+            "no": "41",
+            "question": "He freely gave Jose painting lessons",
+            "answer": [
+                "Old Juancho"
+            ]
+        },
+        {
+            "no": "42",
+            "question": "Jose Rizal and his classmate ____ ________ became apprentices of Old Juancho",
+            "answer": [
+                "Jose Guevarra"
+            ]
+        },
+        {
+            "no": "43",
+            "question": "True or False<br>Jose surpassed his classmates in Spanish, Latin and other subjects",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "44",
+            "question": "When Jose left Biñan",
+            "answer": [
+                "December 17, 1870"
+            ]
+        },
+        {
+            "no": "45",
+            "question": "the steamer that Jose rode",
+            "answer": [
+                "Talim"
+            ]
+        },
+        {
+            "no": "46",
+            "question": "Arturo Camps is a Frenchman and a friend of Don Francisco, he took care of Jose during the trip",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "47",
+            "question": "When did Cavite Mutiny happened?",
+            "answer": [
+                "January 20, 1872"
+            ]
+        },
+        {
+            "no": "48",
+            "question": "When did GOMBURZA executed?",
+            "answer": [
+                "February 17,1872"
+            ]
+        },
+        {
+            "no": "49",
+            "question": "True or False<br>The martyrdom of the three priests inspired Rizal to fight the evils of Spanish tyranny",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "50",
+            "question": "In 1891, Rizal dedicated his second novel __ ________to GOMBURZA",
+            "answer": [
+                "El Filibusterismo"
+            ]
+        },
+        {
+            "no": "51",
+            "question": "Fullname of Dr. Jose Rizal",
+            "answer": [
+                "JOSE PROTACIO RIZAL MERCADO Y ALONZO REALONDA"
+            ]
+        },
+        {
+            "no": "52",
+            "question": "True or False<br>which served as the first governmental system in the Philippines, land control was delegated to selected Spanish officials or religious orders",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "53",
+            "question": "a form of heavy taxation paid annually by each family or single individual, symbol of vassalage to Spain",
+            "answer": [
+                "Tribute"
+            ]
+        },
+        {
+            "no": "54",
+            "question": "Polo – compulsory service to the government rendered annually by all males age from ________ years old",
+            "answer": [
+                "16-60"
+            ]
+        },
+        {
+            "no": "55",
+            "question": "________ - prohibited the people from trading with other Asian countries in order to ward off the expressed interests of other colonial powers over the islands",
+            "answer": [
+                "Isolation policy"
+            ]
+        },
+        {
+            "no": "56",
+            "question": "__________ - rule of the friars, which made the clergy to obtain, by way of Royal Patronage, certain political powers and privileges which were gravely abused leading to the misery of many",
+            "answer": [
+                "Frailocracy"
+            ]
+        },
+        {
+            "no": "57",
+            "question": "This revolution include modern ideas such as human rights, liberalism, justice and equality have become popular over Europe and America",
+            "answer": [
+                "Intellectual Revolution"
+            ]
+        },
+        {
+            "no": "58",
+            "question": "This revolution includes had pushed the countries to become progressive leading to the fall of traditional monarchies",
+            "answer": [
+                "Industrial Revolution"
+            ]
+        },
+        {
+            "no": "59",
+            "question": "True or False<br>Independence of Mexico led to the death of Galleon Trade which forced the Madrid government to open the Philippines to world trade",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "60",
+            "question": "Rizal’s great, great grandfather was a Chinese Immigrant",
+            "answer": [
+                "Domingo Lamco"
+            ]
+        },
+        {
+            "no": "61",
+            "question": "Domingo Lamco married a Filipina named _______ __________ _______",
+            "answer": [
+                "Ines Dela Rosa"
+            ]
+        },
+        {
+            "no": "62",
+            "question": "Rizal, from latin “______” means “green fields”",
+            "answer": [
+                "ricial"
+            ]
+        },
+        {
+            "no": "63",
+            "question": "True or False <br>Francisco Mercado was a businessman from Binan, Laguna",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "64",
+            "question": "Who is the father or Rizal?",
+            "answer": [
+                "Francisco Mercado"
+            ]
+        },
+        {
+            "no": "65",
+            "question": "She is the mother of Rizal",
+            "answer": [
+                "Dona Teodora"
+            ]
+        },
+        {
+            "no": "66",
+            "question": "She married Manuel Hidalgo of Tanauan, Batangas. In 1909 Doña Saturnina published Pascual Poblete’s Tagalog translation of the Noli Me Tangere",
+            "answer": [
+                "Saturnina"
+            ]
+        },
+        {
+            "no": "67",
+            "question": "She married Antonino Lopez, a teacher and musician from Morong, Rizal. It is said that She could recite from memory almost all the poems of Rizal.",
+            "answer": [
+                "Narcisa"
+            ]
+        },
+        {
+            "no": "68",
+            "question": "She married Silvestre Ubaldo, a telegraph operator from Manila",
+            "answer": [
+                "Olimpia"
+            ]
+        },
+        {
+            "no": "69",
+            "question": "She married Mariano Herbosa of Calamba, Laguna.",
+            "answer": [
+                "Lucia"
+            ]
+        },
+        {
+            "no": "70",
+            "question": "She married Daniel Faustino Cruz of Biñan, Laguna",
+            "answer": [
+                "Maria"
+            ]
+        },
+        {
+            "no": "71",
+            "question": "Jose Rizal _th of the 11 children & second son of Francisco Mercado and Teodora Alonzo.",
+            "answer": [
+                "7"
+            ]
+        },
+        {
+            "no": "72",
+            "question": "She who followed Jose, died when Rizal was four.",
+            "answer": [
+                "Conception"
+            ]
+        },
+        {
+            "no": "73",
+            "question": "She was the custodian of Rizal’s elegy, “Mi Ultimo Adios.”",
+            "answer": [
+                "Trinidad"
+            ]
+        },
+        {
+            "no": "74",
+            "question": "She married Pantaleon Quintero of Calamba, Laguna. Soledad, who became a teacher, is said to have been “the best educated” among Rizal’s sisters",
+            "answer": [
+                "Soledad"
+            ]
+        },
+        {
+            "no": "75",
+            "question": "True or False<br>The family of rizal belonged to the Principalia class",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "76",
+            "question": "True or False<br>Rizal Would never forget the story, “The Moth and the Flame” from the book El Amigo de los Niños",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "77",
+            "question": "an artist, who taught him skills in sketching and drawing the used of pencil and charcoal",
+            "answer": [
+                "Jose Alberto"
+            ]
+        },
+        {
+            "no": "78",
+            "question": "an athlete instruct him the rudiments of fencing and wrestling",
+            "answer": [
+                "Manuel"
+            ]
+        },
+        {
+            "no": "79",
+            "question": "At the age of _ Rizal wrote an untitled poem about love, he expressed the Tagalog language as one that is equal footing with Latin & Spanish",
+            "answer": [
+                "8"
+            ]
+        },
+        {
+            "no": "80",
+            "question": "True or False<br>By 9 yrs. Old (1870) – sent to Biñan to study under the instruction of Maestro Justiniano Aquino Cruz",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "81",
+            "question": "He is the first one Rizal had brawl with",
+            "answer": [
+                "Pedro"
+            ]
+        },
+        {
+            "no": "82",
+            "question": "True or False<br>1871 – Rizal’s Biñan studies ended",
+            "answer": [
+                "True"
+            ]
+        },
+        {
+            "no": "83",
+            "question": "True or False<br>18 February 1872 – the GOMBURZA were executed",
+            "answer": [
+                "False"
+            ]
+        },
+        {
+            "no": "84",
+            "question": "True or False<br>GOMBURZA Execution was upon the order of Gov. Gen. Rafael Izquierdo",
+            "answer": [
+                "True"
+            ]
         }
     ]
 }
