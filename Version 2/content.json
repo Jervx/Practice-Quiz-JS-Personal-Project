@@ -1,0 +1,27 @@
+{
+    "subjects":[
+        {
+            "subj_name":"Data Structure & Algorithms 🔥",
+            "quizes_count":"3",
+            "qkey":"sub1",
+            "quizes_link":[
+                    "DS_Q1"
+            ]
+        },
+        {
+            "subj_name":"Discrete Math  𝜮📊",
+            "qkey":"sub2",
+            "quizes_link":[]
+        },
+        {
+            "subj_name":"Art Appreciation  🎨",
+            "qkey":"sub3",
+            "quizes_link":[]
+        },
+        {
+            "subj_name":"Rizal 📝",
+            "qkey":"sub4",
+            "quizes_link":[]
+        }
+    ]
+}
