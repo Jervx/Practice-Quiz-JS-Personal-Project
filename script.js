@@ -60,7 +60,8 @@ function checkAnswer(){
     var coranswer ;
     for(var x = 0; x < curAnswer.length; x++){
         coranswer = curAnswer[x].toLowerCase();
-        if(usranswer.toLowerCase() === coranswer){
+        if(usranswer.toLowerCase() == coranswer){
+            console.log("correct");
             score++;
             wrightIndi(true);
             return;
