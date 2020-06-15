@@ -13,7 +13,7 @@
         },
         {   
             "question":"A ___ contains elements of same type arranged in sequential order. All operations takes place at a single end that is top of the stack",
-            "answer":["stack","stack ADT"]
+            "answer":["Stack","Stack ADT"]
         },
         {   
             "question":"A _____ contains elements of same type arranged in sequential order. Operations takes place at both ends, insertion is done at end and deletion is done at front",

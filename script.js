@@ -22,7 +22,7 @@ let curAnswer;
 let curPtr = 0;
 let isAnswering = false;
 var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!"];
-var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap ","👎 hays, ","🙁...."];
+var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap! ","👎 hays!, ","🙁....!!! "];
 var alter = 0;
 
 function reset(){
@@ -103,6 +103,7 @@ function quizLoader(subjPtr,){
             isAnswering = true;
         }
       });
+    document.documentElement.scrollTop = document.documentElement.offsetHeight;
 }
 
 loadSubjects();
