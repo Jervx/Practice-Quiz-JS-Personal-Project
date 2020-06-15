@@ -5,15 +5,10 @@ function show(tagName){
 
 var content;
 
-function loadSubjects(){
+const loadSubjects = 
     fetch("content.json")
     .then(function(resp) {
-        return resp.json();
-      })
-      .then(function(obj) {
-        content = obj.subjects;
-      });
-}
+        return resp.json();}).then(function(obj) {return obj.subjects;});
 
 let score = 0;
 let over = 0;
@@ -106,8 +101,6 @@ function quizLoader(subjPtr,){
     document.documentElement.scrollTop = document.documentElement.offsetHeight;
 }
 
-loadSubjects();
-
 function writeQDetails(subj){
     document.getElementById("mainCont").innerHTML = '<div id="defaultContent" class="main-Content">'+
     '<h1 class="h1-custom">Practice Makes Perfect 👌</h1>'+
@@ -128,8 +121,14 @@ function getQzs(subj){
     return qzs;
 }
 
+window.onload = async () => {
+    content = await loadSubjects;
+    writeSubjects();
+};
+
 function writeSubjects(){
     var parent = document.getElementById("side-pane");
+    parent.innerHTML = "";
     if(content.length == 0){
         parent.innerHTML += '<div class="subject"><p id="subj-title">No Subjects</p>'
     }
@@ -145,4 +144,5 @@ function writeSubjects(){
             '</div>'
         parent.innerHTML += mcont;
     }
+    writeQDetails();
 }
