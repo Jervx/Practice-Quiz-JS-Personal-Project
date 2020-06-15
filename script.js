@@ -93,9 +93,9 @@ function writeFrm(){
 function quizLoader(subjPtr,){
     curSubj = content[parseInt(subjPtr)];
     
-    console.log(subjPtr+" asd");
-
-    fetch("/qz/"+subjPtr+".json")
+    console.log(subjPtr+" "+ "https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json");
+    
+    fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
     .then(function(resp) {
         return resp.json();
       })
