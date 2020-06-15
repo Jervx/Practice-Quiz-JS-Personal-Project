@@ -92,9 +92,10 @@ function writeFrm(){
 
 function quizLoader(subjPtr,){
     curSubj = content[parseInt(subjPtr)];
-    console.log(subjPtr);
+    
+    console.log(subjPtr+" asd");
 
-    fetch(subjPtr+".json")
+    fetch("/qz/"+subjPtr+".json")
     .then(function(resp) {
         return resp.json();
       })
