@@ -1,5 +1,4 @@
 function show(tagName){
-    console.log(tagName);
     document.getElementById(tagName).className = document.getElementById(tagName).className == "quiz-available-visible" ? "quiz-available-hidden" : "quiz-available-visible";
 }
 
@@ -33,18 +32,13 @@ function reset(){
 function nextQ(){
     if(curPtr == curSubj.Quiz_Questions.length) {
         printScore();
-        reset();
+        return;
     }
+    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button>'
+
     document.getElementById("subm").innerHTML = "Check";
     document.getElementById("subm").removeEventListener("click",nextQ);
     document.getElementById("subm").addEventListener("click",checkAnswer);
-
-    document.getElementById("indicator").innerHTML = "Question "+(curPtr+1) + " of "+over;
-
-    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm" onclick="checkAnswer()">Check</button>'
-    curAnswer = curSubj.Quiz_Questions[curPtr].answer;
-    document.getElementById("subm").addEventListener("click",checkAnswer);
-
     curAnswer = curSubj.Quiz_Questions[curPtr++].answer;
 }
 
@@ -59,9 +53,8 @@ function checkAnswer(){
     var usranswer = document.getElementById("txt-box").value;
     var coranswer ;
     for(var x = 0; x < curAnswer.length; x++){
-        coranswer = curAnswer[x].toLowerCase();
-        if(usranswer.toLowerCase() == coranswer){
-            console.log("correct");
+        coranswer = curAnswer[x].toLowerCase().replace(/\s+/g,"");
+        if(usranswer.toLowerCase().replace(/\s+/g,"") == coranswer){
             score++;
             wrightIndi(true);
             return;
@@ -86,7 +79,7 @@ function writeFrm(){
     nextQ();
 }
 
-function quizLoader(subjPtr,){
+function quizLoader(subjPtr){
     curSubj = content[parseInt(subjPtr)];
     fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
     .then(function(resp) {
@@ -94,11 +87,7 @@ function quizLoader(subjPtr,){
       })
       .then(function(obj) {
         curSubj = obj;
-        if(!isAnswering){
-            writeFrm();
-            isAnswering = true;
-        }
-      });
+        if(!isAnswering){writeFrm();isAnswering = true;}});
     document.documentElement.scrollTop = document.documentElement.offsetHeight;
 }
 
