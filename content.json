@@ -21,7 +21,9 @@
         {
             "subj_name":"Rizal 📝",
             "qkey":"sub4",
-            "quizes_link":[]
+            "quizes_link":[
+                "RZL_Q1"
+            ]
         }
     ]
 }

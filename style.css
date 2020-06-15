@@ -184,7 +184,8 @@ span{
     background-color: rgb(163, 216, 174);
     border-radius: 5px;
     color: white;
-    font-size: 20px;
+    font-weight: bolder;
+    font-size: 22px;
     padding:10px;
     margin-top:20px;
 }
@@ -196,7 +197,12 @@ span{
 
 #question_holder{
     color: var(--font-clr);
-    font-size: 30px;
+    margin: 0px 10px 0px 10px;
+    font-size: 25px;
+}
+
+.icon{
+    font-size:30px;
 }
 
 #indicator{
@@ -228,8 +234,40 @@ span{
 .qstat{
     transition: 0.3s ease-in-out;
     margin-top:20px;
-    font-size: 30px;
+    font-size: 18px;
     color: var(--font-clr);
+}
+
+.nav-cont{
+    display:flex;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    flex:1;
+}
+
+ul a{
+    padding: 1px 10px 3px 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(83, 130, 184);
+    border-bottom: 1px solid rgba(200,200,200,0.0);
+    margin-left: 10px;
+}
+
+ul a:hover{
+    border-bottom: 1px solid rgba(200,200,200,0.4);
+    background-color: rgb(248, 248, 248);
+    box-shadow: 4px 5px 20px rgba(240,240,240,0.3);
+}
+
+nav{
+    display:flex;
+    padding:20px;
+    box-shadow: 2px 2px 20px rgba(200,200,200,0.2);
+    margin-bottom: 5px;
 }
 
 @media only screen and (max-width: 500px) {

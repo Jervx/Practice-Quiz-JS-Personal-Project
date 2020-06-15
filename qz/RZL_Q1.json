@@ -1,0 +1,11 @@
+{
+    "Subj_Name":"Rizal",
+    "Quiz_Details":"The Quiz is all about the Life & Works of Dr. Jose Rizal ",
+    "Quiz_No":"Quiz 1",
+    "Quiz_Questions":[
+        {   
+            "question":" is a type (or class) for objects whose behavior is defined by a set of value and a set of operations.",
+            "answer":["Abstract Data type","Abstract Data type(ADT)","ADT"]
+        }
+    ]
+}

@@ -21,8 +21,8 @@ let curSubj;
 let curAnswer;
 let curPtr = 0;
 let isAnswering = false;
-var yey = ["👌","👍","👏","💪","🔥","🤘"];
-var yayks = ["🤔","🤨","🤦","👎","🙁"];
+var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!"];
+var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap ","👎 hays, ","🙁...."];
 var alter = 0;
 
 function reset(){
@@ -54,7 +54,7 @@ function nextQ(){
 }
 
 function printScore(){
-    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 class="h1-custom">You Got '+score+' / '+over+'</h1><button id="home-Btn" onclick="load()">Home</button></div>;'
+    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 class="h1-custom">You Got '+score+' / '+over+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
     reset();
 }
 
@@ -79,7 +79,7 @@ function wrightIndi(vr){
 
     document.getElementById("subm").removeEventListener("click",checkAnswer);
     document.getElementById("subm").addEventListener("click",nextQ);
-    document.getElementById("qstat").innerHTML = vr? "Correct "+yey[rand(yey.length)]:"Wrong "+ yayks[rand(yayks.length)] +" it's "+curAnswer[0];
+    document.getElementById("qstat").innerHTML = vr? "Correct <span class=\"icon\">"+yey[rand(yey.length)]+"</span>":"Wrong <span class=\"icon\"> "+ yayks[rand(yayks.length)] +" </span> it's "+curAnswer[0];
 }
 
 function writeFrm(){
@@ -108,12 +108,12 @@ function quizLoader(subjPtr,){
 loadSubjects();
 
 function writeQDetails(subj){
-    var str = '<div id="defaultContent" class="main-Content">'+
+    document.getElementById("mainCont").innerHTML = '<div id="defaultContent" class="main-Content">'+
     '<h1 class="h1-custom">Practice Makes Perfect 👌</h1>'+
     '<div class = "content-details">'+
         '<p>Quizzes help students identify what they know and what they don\'t know. The students then have a better idea of how well they are grasping the material, hopefully motivating them to study more and helping them allocate their study time effectively by focusing on the information that still needs more practice</p>'+
         '<p>With this in mind, the students will expect to improve after a certain quiz. He/she might realize what he/she might know or not know. Therefore improving his knowledge in a certain topic</p>'+
-        '<p>Choose A Subject & Answer some Quizes.</p>'+
+        '<p>Choose A Subject 👉 Answer The question 👉 Take A Quiz Again until you mastered it.👌</p>'+
         '<p class="note"><span>NOTE: </span>You can ask me to add a subject from the list by giving me the Quiz questions with answerkeys</p>'+
  '</div>'+
 '</div>';
@@ -125,10 +125,6 @@ function getQzs(subj){
     for(var x = 0 ; x < subj.length; x++)
         qzs += "<button onclick = quizLoader(\""+subj[x]+"\")> ⌥ Quiz "+ (x+1) + "</button>";;
     return qzs;
-}
-
-function load(){
-    document.getElementById("mainCont").innerHTML = '<div id="defaultContent" class="main-Content"><h1 class="h1-custom">Practice Makes Perfect 👌</h1><div class = "content-details"><p>Quizzes help students identify what they know and what they don\'t know. The students then have a better idea of how well they are grasping the material, hopefully motivating them to study more and helping them allocate their study time effectively by focusing on the information that still needs more practice</p><p>With this in mind, the students will expect to improve after a certain quiz. He/she might realize what he/she might know or not know. Therefore improving his knowledge in a certain topic</p><p>Choose A Subject & Answer some Quizes.</p><p class="note"><span>NOTE: </span>You can ask me to add a subject from the list by giving me the Quiz questions with answerkeys</p></div></div>'
 }
 
 function writeSubjects(){
