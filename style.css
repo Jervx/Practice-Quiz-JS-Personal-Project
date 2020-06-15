@@ -94,6 +94,7 @@ main{
 .h1-custom{
     font-size: 40px;
     color: var(--font-clr);
+    margin-left:40px;
 }
 
 .content-details{

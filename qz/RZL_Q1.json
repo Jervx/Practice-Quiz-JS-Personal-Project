@@ -149,7 +149,7 @@
             "no": "21",
             "question": "Rizal godfather when he was baptised as catholic",
             "answer": [
-                "Fr. Perdo Casanas"
+                ["Fr. Pedro Casanas","Pedro Casanas"]
             ]
         },
         {
@@ -254,21 +254,24 @@
             "no": "36",
             "question": "Jose Rizal second private tutor",
             "answer": [
-                "Maestro Lucas Padua"
+                "Maestro Lucas Padua",
+                "Lucas Padua"
             ]
         },
         {
             "no": "37",
             "question": "He gave wise direction in the studies of Jose",
             "answer": [
-                "Uncle Jose Alberto"
+                "Uncle Jose Alberto",
+                "Jose Alberto"
             ]
         },
         {
             "no": "38",
             "question": "He instilled into the mind of Jose the love for education",
             "answer": [
-                "Uncle Gregorio"
+                "Uncle Gregorio",
+                "Gregorio"
             ]
         },
         {
@@ -282,7 +285,8 @@
             "no": "40",
             "question": "Formal teacher of Rizal",
             "answer": [
-                "Maestro Justiniano Aquino Cruz"
+                "Maestro Justiniano Aquino Cruz",
+                "Justiniano Aquino Cruz"
             ]
         },
         {
@@ -310,7 +314,8 @@
             "no": "44",
             "question": "When Jose left Biñan",
             "answer": [
-                "December 17, 1870"
+                "December 17, 1870",
+                "December 17 1870"
             ]
         },
         {
@@ -322,7 +327,7 @@
         },
         {
             "no": "46",
-            "question": "Arturo Camps is a Frenchman and a friend of Don Francisco, he took care of Jose during the trip",
+            "question": "True or False<br>Arturo Camps is a Frenchman and a friend of Don Francisco, he took care of Jose during the trip",
             "answer": [
                 "True"
             ]
@@ -331,7 +336,8 @@
             "no": "47",
             "question": "When did Cavite Mutiny happened?",
             "answer": [
-                "January 20, 1872"
+                "January 20, 1872",
+                "January 20 1872"
             ]
         },
         {
