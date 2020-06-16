@@ -87,7 +87,7 @@ function quizLoader(subjPtr){
       })
       .then(function(obj) {
         curSubj = obj;
-        if(!isAnswering){writeFrm();isAnswering = true;}});
+        if(!isAnswering){writeFrm();isAnswering = true;}else{console.log("🤨 What? Finish the 👉 quiz first")}});
     document.documentElement.scrollTop = document.documentElement.offsetHeight;
 }
 

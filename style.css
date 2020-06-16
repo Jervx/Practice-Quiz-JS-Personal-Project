@@ -25,7 +25,7 @@ body{
     border: 1px solid var(--borderLine);
     border-radius: 3px;
     position: fixed;
-    margin:0% 0% 3% 2%;
+    margin:3% 0% 3% 2%;
     width: 300px;
     height: 80%;
     min-width: 300px;
