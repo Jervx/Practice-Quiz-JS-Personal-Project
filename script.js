@@ -69,6 +69,7 @@ function wrightIndi(vr){
     document.getElementById("subm").removeEventListener("click",checkAnswer);
     document.getElementById("subm").addEventListener("click",nextQ);
     document.getElementById("qstat").innerHTML = vr? "Correct <span class=\"icon\">"+yey[rand(yey.length)]+"</span>":"Wrong <span class=\"icon\"> "+ yayks[rand(yayks.length)] +" </span> it's "+curAnswer[0];
+    console.log(document.getElementById("qstat").textContent);
 }
 
 function writeFrm(){
@@ -87,7 +88,11 @@ function quizLoader(subjPtr){
       })
       .then(function(obj) {
         curSubj = obj;
-        if(!isAnswering){writeFrm();isAnswering = true;}else{console.log("🤨 What? Finish the 👉 quiz first")}});
+        if(!isAnswering){writeFrm();isAnswering = true;}else{
+            console.log("🤨 What? Finish the 👉 quiz first");
+            alert("🤨 What? Finish the 👉 quiz first");
+        }
+        });
     document.documentElement.scrollTop = document.documentElement.offsetHeight;
 }
 
@@ -133,6 +138,7 @@ function writeSubjects(){
                 '</div>'+
             '</div>'
         parent.innerHTML += mcont;
+        console.log("Hello & Welcome 👋 Don't go herer! It's Dangerous 💀");
     }
     writeQDetails();
 }
