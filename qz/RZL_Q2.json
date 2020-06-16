@@ -1,0 +1,35 @@
+{
+    "Subj_Name": "Rizal",
+    "Quiz_Details": "The Quiz is all about the Life & Works of Dr. Jose Rizal ",
+    "Quiz_No": "Quiz 2",
+    "Quiz_Questions": [
+        {
+            "no": "1",
+            "question": "______ ______ a tall girl with regal bearing was courted by Rizal while staying at Dona Concha Leyvas house in Intramuros",
+            "answer": [
+                "Leonor Valenzuela"
+            ]
+        },
+        {
+            "no": "2",
+            "question": "She was a pretty girl tende budding flower with indly wistful eyes",
+            "answer": [
+                "Leonor Rivera"
+            ]
+        },
+        {
+            "no": "3",
+            "question": "Rizal submitted a poem entitled A __ _______ ______ and won first price",
+            "answer": [
+                "La Inventud Filipina"
+            ]
+        },
+        {
+            "no": "4",
+            "question": "______ - people dancing in the streets during procession in honor of the miraculous Birhen de los Dores",
+            "answer": [
+                "urumba"
+            ]
+        }
+    ]
+}

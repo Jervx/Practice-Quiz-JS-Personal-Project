@@ -480,6 +480,17 @@
             ]
         },
         {
+            "no":"69",
+            "question": "Pogi ba ako?",
+            "answer" :[
+                "yes",
+                "pogi ka",
+                "oo",
+                "sobra",
+                "true"
+            ]
+        },
+        {
             "no": "69",
             "question": "She married Mariano Herbosa of Calamba, Laguna.",
             "answer": [
