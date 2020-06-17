@@ -4,26 +4,34 @@
             "subj_name":"Data Structure & Algorithms 🔥",
             "quizes_count":"3",
             "qkey":"sub1",
-            "quizes_link":[
-                    "DS_Q1"
+            "qk":[
+                {
+                    "qname":"Abstract Data Type",
+                    "qlk":"DS_Q1"
+                }
             ]
         },
         {
             "subj_name":"Discrete Math  𝜮📊",
             "qkey":"sub2",
-            "quizes_link":[]
+            "qk":[]
         },
         {
             "subj_name":"Art Appreciation  🎨",
             "qkey":"sub3",
-            "quizes_link":[]
+            "qk":[]
         },
         {
             "subj_name":"Rizal 📝",
             "qkey":"sub4",
-            "quizes_link":[
-                "RZL_Q1",
-                "RZL_Q2"
+            "qk":[
+                {   
+                    "qname":"Life & Family Of Rizal",
+                    "qlk":"RZL_Q1"},
+                {
+                    "qname":"Romances Of Rizal",
+                    "qlk":"RZL_Q2"
+                }
             ]
         }
     ]

@@ -43,7 +43,7 @@ function nextQ(){
 }
 
 function printScore(){
-    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 class="h1-custom">You Got '+score+' / '+over+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
+    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 style = "margin-left: 0" class="h1-custom">You Got '+score+' / '+over+'<br>'+(over * 0.5 < score? yey[rand(yey.length)]: yayks[rand(yey.length)])+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
     reset();
 }
 
@@ -112,7 +112,7 @@ function getQzs(subj){
     var qzs = "";
     if(subj.length == 0) return '<p class="note">No Quizes Available</p>';
     for(var x = 0 ; x < subj.length; x++)
-        qzs += "<button onclick = quizLoader(\""+subj[x]+"\")> ⌥ Quiz "+ (x+1) + "</button>";;
+        qzs += "<button onclick = quizLoader(\""+subj[x].qlk+"\")> ⌥ "+ subj[x].qname + "</button>";;
     return qzs;
 }
 
@@ -129,10 +129,10 @@ function writeSubjects(){
     }
     for(x = 0; x < content.length; x++){
         var cont = content[x].subj_name;
-        var quizes = getQzs(content[x].quizes_link);
+        var quizes = getQzs(content[x].qk);
         var mcont = '<div class="subject">'+
                 '<p id="subj-title">'+cont+'</p>'+
-                '<p id="showQuizes" onclick = \'show("'+content[x].qkey+'")\'>📚 '+content[x].quizes_link.length+' Quiz(s)</p>'+
+                '<p id="showQuizes" onclick = \'show("'+content[x].qkey+'")\'>📚 '+content[x].qk.length+' Quiz(s)</p>'+
                 '<div id="'+content[x].qkey+'" class="quiz-available-hidden">'+
                    quizes+
                 '</div>'+
