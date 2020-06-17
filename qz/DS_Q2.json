@@ -1,0 +1,22 @@
+{
+    "Subj_Name": "Data Structures",
+    "Quiz_Details": "",
+    "Quiz_No": "Quiz 2",
+    "Quiz_Questions": [
+        {
+            "no": "1",
+            "question": "______ - refers to logical collection of data, collection of data that defines the structures being used.",
+            "answer": [
+                "Data Structures",
+                "Data Structure"
+            ]
+        },
+        {
+            "no": "2",
+            "question": "________ - is the term used to refer to the kinds of data that a variable may “hold” in a given programming language.",
+            "answer": [
+                "Data Type"
+            ]
+        }
+    ]
+}
