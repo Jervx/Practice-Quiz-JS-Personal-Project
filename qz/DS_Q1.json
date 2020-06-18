@@ -15,7 +15,7 @@
             "answer":["List","list ADT"]
         },
         {   
-            "question":"A ___ contains elements of same type arranged in sequential order. All operations takes place at a single end that is top of the stack",
+            "question":"A ___ contains elements of same type arranged in sequential order. All operations takes place at a single end that is top.",
             "answer":["Stack","Stack ADT"]
         },
         {   
