@@ -10,8 +10,11 @@
                     "qlk":"DS_Q1"
                 },
                 {
-                    "qname":"Data Structures",
-                    "qlk":"DS_Q2"
+                    "qname":"Array",
+                    "qlk":"DS_Q3"
+                },{
+                    "qname":"Algorithms",
+                    "qlk":"DS_Q4"
                 }
             ]
         },
