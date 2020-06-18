@@ -11,7 +11,7 @@
             "answer":["abstraction"]
         },
         {   
-            "question":"A ___ contains elements of same type arranged in sequential order and following operations can be performed on the list.",
+            "question":"A ___ contains elements of same type arranged in sequential order",
             "answer":["List","list ADT"]
         },
         {   
