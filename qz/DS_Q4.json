@@ -26,7 +26,7 @@
             "answer":["Sequence of Execution"]
         },{
             "question":"________ - defined the unknowns of the problem is specified and with the expected outcome.",
-            "answer":["Input and Output"]
+            "answer":["Input and Output","Input Output"]
         },{
             "question":"________ - the solution prescribed is guaranteed to give a correct answer and that the specified process is faithfully carried out.",
             "answer":["Effectiveness"]
