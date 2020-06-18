@@ -15,8 +15,8 @@ let curSubj;
 let curAnswer;
 let curPtr = 0;
 let isAnswering = false;
-var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!"];
-var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap! ","👎 hays!, ","🙁....!!! "];
+var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!","😍 Sarap mo talaga!","😍 Crush na kita!","🎉 Shet ang galing!"];
+var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap! ","👎 hays!, ","🙁....!!! ","🤾 Batuhin kita eh! ","🙅Gadon* \"Bobo!\" ","🤷 What the heck!"];
 var alter = 0;
 
 function reset(){
