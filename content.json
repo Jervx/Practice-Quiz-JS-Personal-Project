@@ -8,8 +8,10 @@
                 {
                     "qname":"Abstract Data Type",
                     "qlk":"DS_Q1"
-                },
-                {
+                },{
+                    "qname":"Data Structure",
+                    "qlk":"DS_Q2"
+                },{
                     "qname":"Array",
                     "qlk":"DS_Q3"
                 },{
