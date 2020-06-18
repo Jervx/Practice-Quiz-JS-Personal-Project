@@ -81,7 +81,11 @@ function writeFrm(){
 }
 
 function quizLoader(subjPtr){
-    if(isAnswering){return;}
+    if(isAnswering){
+        console.log("🤨 What? Finish the 👉 quiz first");
+        alert("🤨 What? Finish the 👉 quiz first");
+        return;
+    }
     curSubj = content[parseInt(subjPtr)];
     fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
     .then(function(resp) {
