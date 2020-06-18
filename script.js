@@ -81,6 +81,7 @@ function writeFrm(){
 }
 
 function quizLoader(subjPtr){
+    if(isAnswering){return;}
     curSubj = content[parseInt(subjPtr)];
     fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
     .then(function(resp) {
@@ -88,9 +89,9 @@ function quizLoader(subjPtr){
       })
       .then(function(obj) {
         curSubj = obj;
-        if(!isAnswering){writeFrm();isAnswering = true;}else{
-            console.log("🤨 What? Finish the 👉 quiz first");
-            alert("🤨 What? Finish the 👉 quiz first");
+        if(!isAnswering){
+            writeFrm();
+            isAnswering = true;
         }
         });
     document.documentElement.scrollTop = document.documentElement.offsetHeight;
