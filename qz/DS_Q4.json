@@ -58,8 +58,29 @@
             "question":"This flowchart is a graphical representation of a computer program in relation to its sequence of functions",
             "answer":["Program Flowchart"]
         },{
-            "question":"Bonus Question. Pogi si jerbee?",
-            "answer":["true","yes","pogi","gwapo","cute","oo","oo naman","yes na yes"]
+            "question":"Defines the starting and ending point of a flowchart.",
+            "answer":["Terminal"]
+        },{
+            "question":"The preparation or initialization of memory space for data processing.",
+            "answer":["Initialization"]
+        },{
+            "question":"The inputting of data for processing, and printing out of processed data",
+            "answer":["Input/Output","Input Output"]
+        },{
+            "question":"Manipulation of data(assignments and mathematical computations)",
+            "answer":["Process"]
+        },{
+            "question":"Defines logical sequence of the program.  Its points to the next symbol to be performed            ",
+            "answer":["FLOW LINES"]
+        },{
+            "question":"Connects to the flowchart to avoid spaghetti connection on the same page",
+            "answer":["On page connector","On-page connector"]
+        },{
+            "question":"Connects the flowchart on different page to avoid spaghetti connection",
+            "answer":["Off-Page Connector","Off page connector"]
+        },{
+            "question":"Process conditions using relational operators.  Used for trapping and filtering data",
+            "answer":["Decision"]
         }
     ]
 }
