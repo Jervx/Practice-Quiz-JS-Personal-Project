@@ -37,8 +37,8 @@
             "question":"The highest number of the array index type",
             "answer":["UPPER BOUND"]
         },{
-            "question":"Type the formula, basta yung tinuro ni ma'am",
-            "answer":["LOC(i) = BASE + M ( I – LB )"]
+            "question":"Type the mssing symbol > LOC(i) = BASE + __ ( I – LB)",
+            "answer":["m"]
         },{
             "question":"What is the location of index 2 in an array OLFU [1...20] with basic address of 220 and the word per cell of 2?",
             "answer":["222"]
