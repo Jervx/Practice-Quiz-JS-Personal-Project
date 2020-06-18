@@ -1,0 +1,56 @@
+{
+    "Subj_Name":"Data Structure & Algorithms",
+    "Quiz_Details":"Array",
+    "Quiz_No":"Quiz 3",
+    "Quiz_Questions":[
+        {
+            "question":"An ______ is a collection of a fixed number of values of a single type. ",
+            "answer":["Array"]
+        },{
+            "question":"True or False: The type of array and it size can change after declaration",
+            "answer":["False"]
+        },{
+            "question":"The simplest type of data structure.",
+            "answer":["Array","Arrays"]
+        },{
+            "question":"It is a Data structure that group a specific type of data into one.",
+            "answer":["Array","Arrays"]
+        },{
+            "question":"It is a collection of a fixed number of values of a single type.",
+            "answer":["Array","Arrays"]
+        },{
+            "question":"Common name of variable in array components for element – variable in an array",
+            "answer":["Subscript","Subscript(INDEX)"]
+        },{
+            "question":"Subscript is also known as ______",
+            "answer":["Index"]
+        },{
+            "question":"The number of subscript required to describe the array",
+            "answer":["Dimension"]
+        },{
+            "question":"The number of element in the array row",
+            "answer":["RANGE"]
+        },{
+            "question":"The smallest number of the array index type",
+            "answer":["LOWER BOUND"]
+        },{
+            "question":"The highest number of the array index type",
+            "answer":["UPPER BOUND"]
+        },{
+            "question":"Type the formula, basta yung tinuro ni ma'am",
+            "answer":["LOC(i) = BASE + M ( I – LB )"]
+        },{
+            "question":"What is the location of index 2 in an array OLFU [1...20] with basic address of 220 and the word per cell of 2?",
+            "answer":["222"]
+        },{
+            "question":"Locate the subscript 20 in an array [10...50] with base address 350 and a memory cell of 5",
+            "answer":["400"]
+        },{
+            "question":"Locate index -1 of array [-5...5] with address 375 and memory cell 4.",
+            "answer":["391"]
+        },{
+            "question":"What is the memory cell of array [3...20] in a base address of 280 and array [5] is located at 286?",
+            "answer":["3"]
+        }
+    ]
+}

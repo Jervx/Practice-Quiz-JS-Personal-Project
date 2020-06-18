@@ -1,0 +1,65 @@
+{
+    "Subj_Name":"Data Structure & Algorithms",
+    "Quiz_Details":"Algorithms",
+    "Quiz_No":"Quiz 4",
+    "Quiz_Questions":[
+        {
+            "question":"It is a list of instructions specifying a precise description of a step by step process that terminates after a finite number of steps for solving an algorithm problem producing the correct answer in the end",
+            "answer":["Algorithm","Algorithms"]
+        },{
+            "question":"It is a recipe for solving problems. ",
+            "answer":["Algoritm","Algorithms"]
+        },{
+            "question":"A finite set of an instruction that specifies a sequence of operation to be carried out in order to solve a specific problem.",
+            "answer":["Algoritm","Algorithms"]
+        },{
+            "question":"An unambiguous procedure specifying a finite number of steps to be taken",
+            "answer":["Algoritm","Algorithms"]
+        },{
+            "question":"______ - there is an exact number of steps to be taken and has an end.",
+            "answer":["Finiteness"]
+        },{
+            "question":"True or False:<br>Absence of Castro - means that every instruction is precisely described and clearly specified",
+            "answer":["false"]
+        },{
+            "question":"________ - Instructions are performed from top to bottom.",
+            "answer":["Sequence of Execution"]
+        },{
+            "question":"________ - defined the unknowns of the problem is specified and with the expected outcome.",
+            "answer":["Input and Output"]
+        },{
+            "question":"________ - the solution prescribed is guaranteed to give a correct answer and that the specified process is faithfully carried out.",
+            "answer":["Effectiveness"]
+        },{
+            "question":"_________ - applies to a specific problem or class of problem",
+            "answer":["Scope Definition"]
+        },{
+            "question":"Specifies the steps of algorithm using essentially natural language of superimposed control structure.",
+            "answer":["Pseudocode"]
+        },{
+            "question":"A traditional graphical tool with standardized symbols. Show the sequence of steps in an algorithm",
+            "answer":["Flowchart"]
+        },{
+            "question":"True or False:<br>The flowchart should flow from top to bottom",
+            "answer":["True"]
+        },{
+            "question":"True or False:<br>If the chart becomes complex, utilize connecting blocks",
+            "answer":["True"]
+        },{
+            "question":"True or False:<br>Avoid intersecting flow lines",
+            "answer":["True"]
+        },{
+            "question":"True or False:<br>Use meaningful description in the symbol",
+            "answer":["True"]
+        },{
+            "question":"This flowchart is a formalized graphic representation of a logic sequence, work or manufacturing process, organization chart, or similar formalized structure.",
+            "answer":["System Flowchart"]
+        },{
+            "question":"This flowchart is a graphical representation of a computer program in relation to its sequence of functions",
+            "answer":["Program Flowchart"]
+        },{
+            "question":"Bonus Question. Pogi si jerbee?",
+            "answer":["true","yes","pogi","gwapo","cute","oo","oo naman","yes na yes"]
+        }
+    ]
+}
