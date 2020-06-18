@@ -71,7 +71,7 @@
             "answer":["Records"]
         },{
             "question":"Is a collection of related records",
-            "answer":["File"]
+            "answer":["File","Files"]
         },{
             "question":"Is something that has certain properties",
             "answer":["Entity"]
