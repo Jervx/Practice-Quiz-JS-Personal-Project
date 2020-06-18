@@ -43,7 +43,7 @@ function nextQ(){
 }
 
 function printScore(){
-    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 style = "margin-left: 0" class="h1-custom">You Got '+score+' / '+over+'<br>'+(over * 0.5 < score? yey[rand(yey.length)]: yayks[rand(yey.length)])+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
+    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 style = "margin-left: 0; text-align: center" class="h1-custom">'+(over * 0.5 < score? yey[rand(yey.length)]: yayks[rand(yey.length)])+'<br>'+'You Got '+score+' / '+over+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
     reset();
 }
 
