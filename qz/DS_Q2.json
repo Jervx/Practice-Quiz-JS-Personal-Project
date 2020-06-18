@@ -5,16 +5,16 @@
     "Quiz_Questions": [
         {
             "question":"A ___________ refers to a single unit of values. E.g. Roll Number, Name, Date of Birth, Age etc. ",
-            "answer":["Data Item"]
+            "answer":["Data Item","Data Items"]
         },{
             "question":"Give 2 types of data items. Separate answer with comma",
             "answer":["Group Items,Elementary Items","Elementary Items,Group Items"]
         },{
             "question":"Data items that can be divided into sub-items are called ‘______ ______’. E.g. the name of a person is a group item because it can be divided into three sub-items: First Name, Middle Initial and Last Name. Other examples are: Address, Date, Qualification, Salary etc.",
-            "answer":["Group Items"]
+            "answer":["Group Items","Group Item"]
         },{
             "question":"Data items that cannot be divided into sub-items are called ‘______ ______’. E.g. the roll number of a student is an elementary item because it cannot be divided further into sub-items. Other examples are: Marks, Age etc.",
-            "answer":["Elementary Items"]
+            "answer":["Elementary Items","Elementary Item"]
         },{
             "question":"True or False<br>classification of data structure consists of Primitive data structure and Non-primitive data structure",
             "answer":["True"]
@@ -62,10 +62,10 @@
             "answer":["True"]
         },{
             "question":"These are Item that can be subdivided",
-            "answer":["Group Item"]
+            "answer":["Group Item","Group Items"]
         },{
             "question":"These are item that Could not be divided into sub item",
-            "answer":["Elementary Item"]
+            "answer":["Elementary Item","Elementary Items"]
         },{
             "question":"Is a collection of related data items or fields",
             "answer":["Records"]
