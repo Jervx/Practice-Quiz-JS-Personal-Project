@@ -151,28 +151,28 @@
             "question":"Symbol ℝ Represents what?",
             "answer":["Real Numbers","Real Number"]
         },{
-            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3 <br> 𝑔(𝑥) = x + 3 <br>Find: (𝑓 + 𝑔)(2)",
+            "question":"Let :𝑓(𝑥) = x² + 4x + 3 <br> 𝑔(𝑥) = x + 3 <br>Find: (𝑓 + 𝑔)(2)",
             "answer":["20"]
         },{
-            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3 <br>Find: (𝑓 - 𝑔)(1)",
+            "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3 <br>Find: (𝑓 - 𝑔)(1)",
             "answer":["4"]
         },{
-            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(𝑓 • 𝑔)(-1)",
+            "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(𝑓 • 𝑔)(-1)",
             "answer":["0"]
         },{
-            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(f/g)(3)",
+            "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(f/g)(3)",
             "answer":["4"]
         },{
             "question":"The output of one function serves as the input of another function",
             "answer":["Composite Function"]
         },{
-            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑓 ∘ 𝑔)(1)",
+            "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑓 ∘ 𝑔)(1)",
             "answer":["30"]
         },{
-            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑔 ∘ 𝑓)(2)",
+            "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑔 ∘ 𝑓)(2)",
             "answer":["7"]
         },{
-            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br> Find: (𝑓 ∘ 𝑓)(-1)",
+            "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br> Find: (𝑓 ∘ 𝑓)(-1)",
             "answer":["2"]
         },{
             "question":"_______ ____ - Suppose that an event can be performed by either of two different procedures, with m possible outcomes for the first procedure and n possibilities for the second. If the two sets of possible outcomes are disjoint, then, the number of possible outcomes for the event is m+n.",

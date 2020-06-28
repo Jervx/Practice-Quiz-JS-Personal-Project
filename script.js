@@ -82,7 +82,7 @@ function writeFrm(){
 
 function quizLoader(subjPtr){
     if(isAnswering){
-        console.log("🤨 What? Finish the 👉 quiz first");
+        console.log("🤨 What? Finish the current quiz first");
         alert("🤨 What? Finish the 👉 quiz first");
         return;
     }
