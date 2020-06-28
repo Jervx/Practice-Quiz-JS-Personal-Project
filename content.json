@@ -26,7 +26,9 @@
             "qk":[
                 {   
                     "qname":"EXAM PRACTICE BITCH",
-                    "qlk":"DSM_Q1"
+                    "qlk":[
+                        "DSM_Q1"
+                    ]
                 }
             ]
         },
