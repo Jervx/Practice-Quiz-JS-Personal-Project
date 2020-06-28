@@ -55,55 +55,55 @@
             "question":"Who developed ven diagram?",
             "answer":["John Venn"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of first seven whole numbers.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of first seven whole numbers.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of letters in the word empty.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of letters in the word empty.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of positive odd numbers.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of positive odd numbers.",
             "answer":["Infinite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of consonants in the English alphabet.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of consonants in the English alphabet.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br> The set of the provinces in the Philippines",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br> The set of the provinces in the Philippines",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of mayors in the National Capital Region",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of mayors in the National Capital Region",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of living organisms in the Pacific Ocean",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of living organisms in the Pacific Ocean",
             "answer":["Infinite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of fractions in integers.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of fractions in integers.",
             "answer":["Empty"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of people who speak English language.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of people who speak English language.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of parallel line to the y-axis.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of parallel line to the y-axis.",
             "answer":["Infinite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of numbers which are multiple of 100",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of numbers which are multiple of 100",
             "answer":["Infinite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of mammals living on earth.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of mammals living on earth.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of circles through the origin (0,0).",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of circles through the origin (0,0).",
             "answer":["Empty"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of even prime numbers.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of even prime numbers.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br> The set of counting numbers less than zero.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br> The set of counting numbers less than zero.",
             "answer":["Empty"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>The set of months in a year.",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of months in a year.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br>",
+            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>",
             "answer":[]
         },{
             "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A) ",
