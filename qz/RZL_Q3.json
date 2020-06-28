@@ -1,0 +1,66 @@
+{
+    "Subj_Name": "Rizal",
+    "Quiz_Details": "The Quiz is all about the Life & Works of Dr. Jose Rizal ",
+    "Quiz_No": "Quiz 3",
+    "Quiz_Questions": [
+        {
+            "question": "True or False<br> Dona Teodora was arrested on malicious charge that she had conspired with her brother, Jose Alberto, in the attempt to murder the latter’s wife, Teodora Formosa, by poisoning",
+            "answer": ["True"
+            ]
+        },{
+            "question": "Who is the person Dona Teodora allegedly attempted to poison?",
+            "answer": ["Teodora Formosa"]
+        },{
+            "question": "Dona Teodora was sent to _______ jail",
+            "answer": ["Calamba  jail","Calamba"]
+        },{
+            "question": "A new Governor General was named for the Philippines, Probably the best administrator the Philippines ever had during the spanish rule.",
+            "answer": ["Carlos Ma. dela Torre"]
+        },{
+            "question": "_______ was  abolished  and  government  criticisms  were  accepted  as  reforms recommended by various sectors were welcomed.",
+            "answer": ["Censorship"]
+        },{
+            "question": "The Secularization of the Parishes was pioneered by ___ _____ ____. ",
+            "answer": ["Fr. Pedro Pelaez","Pedro Pelaez"]
+        },{
+            "question": "He is a new king under the new Spanish Constitution.",
+            "answer": ["Amadeo"]
+        },{
+            "question": "________  in  the  Philippines,  as introduced  by  dela  Torre,  had  already  starting  to  encourage  many  Filipino  patriots  to petition the government for more political reforms",
+            "answer": ["Liberalism"]
+        },{
+            "question": "200 Filipino soldiers and workmen of the Cavite Arsenal at Fort San Felipe rose in a violent mutiny under the leadership of Sgt. __ _____",
+            "answer": ["La Madrid"]
+        },{
+            "question": "La  Madrid  and  the  mutineers  were  defeated  by Lt. ____ ____",
+            "answer": ["Felipe Ginoves"]
+        },{
+            "question": "Date of GOMBURZA execution",
+            "answer": ["February 17, 1872, February 17 1872"]
+        },{
+            "question": "Gomburza were executed upon the order of the Gov. Gen. ___ _____",
+            "answer": ["Rafael Izquierdo"]
+        },{
+            "question": "He was a trusted assistant of Burgos in the fight for the Filipinization of the parishes, because of this he quit his study to evade arrest.",
+            "answer": ["Paciano"]
+        },{
+            "question": "",
+            "answer": []
+        },{ 
+            "question": "",
+            "answer": []
+        },{
+            "question": "",
+            "answer": []
+        },{
+            "question": "",
+            "answer": []
+        },{
+            "question": "",
+            "answer": []
+        },{
+            "question": "",
+            "answer": []
+        }
+    ]
+}
