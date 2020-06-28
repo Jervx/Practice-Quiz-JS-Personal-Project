@@ -19,7 +19,7 @@
             "question": "______ written using propositional logic notation, p, q, and r are used to represent statements",
             "answer": ["Formal Propositional"]
         },{
-            "question":"True or False<br>\"Mathematics is fun\" is an example of statement",
+            "question":"True or false<br><br>\"Mathematics is fun\" is an example of statement",
             "answer":["True"]
         },{
             "question":"________ is a statement composed of two or more simple statements connected by logical connectives \"and\", \"or\", \"if then\", \"not\", \"if and only if\", and \"exclusive-\".",
@@ -49,7 +49,7 @@
             "question":"Objects in a set are also called the _______ of the set.",
             "answer":["Elements or Members","Elements","Members","Element","Member"]
         },{
-            "question":"True or False<br>Two sets are equal if and only if they have the same elements",
+            "question":"True or false<br><br>Two sets are equal if and only if they have the same elements",
             "answer":["True"]
         },{
             "question":"Who developed ven diagram?",
@@ -103,9 +103,6 @@
             "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of months in a year.",
             "answer":["Finite"]
         },{
-            "question":"Choose answer either Finite, Infinite or Empty<br><br><br>",
-            "answer":[]
-        },{
             "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A) ",
             "answer":["5"]
         },{
@@ -148,35 +145,65 @@
             "question":"Symbol ℚ Represents what?<br> Ex:1/2,3/4,11/7,-6/13",
             "answer":["Rational Numbers","Rational Number"]
         },{
-            "question":"True or False<br>ℯ (Euler’s Number, 2.71828),<br>Π (Pi, 3.14159265),<br>√2, √(3&7)<br><br> Are examples of Irrational Numbers",
+            "question":"True or false<br><br>ℯ (Euler’s Number, 2.71828),<br>Π (Pi, 3.14159265),<br>√2, √(3&7)<br><br> Are examples of Irrational Numbers",
             "answer":["True"]
         },{
             "question":"Symbol ℝ Represents what?",
             "answer":["Real Numbers","Real Number"]
         },{
-            "question":"Let :𝑓(𝑥) = x2 + 4x + 3 <br> 𝑔(𝑥) = x + 3 <br>Find: (𝑓 + 𝑔)(2)",
+            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3 <br> 𝑔(𝑥) = x + 3 <br>Find: (𝑓 + 𝑔)(2)",
             "answer":["20"]
         },{
-            "question":"Let :𝑓(𝑥) = x2 + 4x + 3<br>𝑔(𝑥) = x + 3 <br>Find: (𝑓 - 𝑔)(1)",
+            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3 <br>Find: (𝑓 - 𝑔)(1)",
             "answer":["4"]
         },{
-            "question":"Let :𝑓(𝑥) = x2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(𝑓 • 𝑔)(-1)",
+            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(𝑓 • 𝑔)(-1)",
             "answer":["0"]
         },{
-            "question":"Let :𝑓(𝑥) = x2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(f/g)(3)",
+            "question":"Let :𝑓(𝑥) = x^2 + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(f/g)(3)",
             "answer":["4"]
         },{
             "question":"The output of one function serves as the input of another function",
             "answer":["Composite Function"]
         },{
-            "question":"Let : 𝑓(𝑥) = x2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑓 ∘ 𝑔)(1)",
+            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑓 ∘ 𝑔)(1)",
             "answer":["30"]
         },{
-            "question":"Let : 𝑓(𝑥) = x2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑔 ∘ 𝑓)(2)",
+            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑔 ∘ 𝑓)(2)",
             "answer":["7"]
         },{
-            "question":"Let : 𝑓(𝑥) = x2 – x<br>𝑔(𝑥) = x + 5<br> Find: (𝑓 ∘ 𝑓)(-1)",
+            "question":"Let : 𝑓(𝑥) = x^2 – x<br>𝑔(𝑥) = x + 5<br> Find: (𝑓 ∘ 𝑓)(-1)",
             "answer":["2"]
+        },{
+            "question":"_______ ____ - Suppose that an event can be performed by either of two different procedures, with m possible outcomes for the first procedure and n possibilities for the second. If the two sets of possible outcomes are disjoint, then, the number of possible outcomes for the event is m+n.",
+            "answer":["Sum Rule"]
+        },{
+            "question":"______ ____ - In a sequence of n1 events in which the first has m possibilities and the second event has n2, and the third event has n3, and so forth, the total number of possibilities of the sequence will be n1(n2)(n3)…(nk)",
+            "answer":["Product Rule"]
+        },{
+            "question":"_____ ____ - n!",
+            "answer":["Factorial Notation"]
+        },{
+            "question":"_________ - is an arrangement of all or part of a number of things in a definite order",
+            "answer":["Permutation"]
+        },{
+            "question":"_______ - is a grouping or selection of all or part of a number of things (or objects) without reference to the arrangement of the things selected",
+            "answer":["Combination"]
+        },{
+            "question":"",
+            "answer":[""]
+        },{
+            "question":"",
+            "answer":[""]
+        },{
+            "question":"",
+            "answer":[""]
+        },{
+            "question":"",
+            "answer":[""]
+        },{
+            "question":"",
+            "answer":[""]
         }
     ]    
 }
