@@ -23,7 +23,12 @@
         {
             "subj_name":"Discrete Math  𝜮📊",
             "qkey":"sub2",
-            "qk":[]
+            "qk":[
+                {   
+                    "qname":"EXAM PRACTICE BITCH",
+                    "qlk":"DSM_Q1"
+                }
+            ]
         },
         {
             "subj_name":"Art Appreciation  🎨",
@@ -36,10 +41,13 @@
             "qk":[
                 {   
                     "qname":"Life & Family Of Rizal",
-                    "qlk":"RZL_Q1"},
-                {
+                    "qlk":"RZL_Q1"
+                },{
                     "qname":"Romances Of Rizal",
                     "qlk":"RZL_Q2"
+                },{
+                    "qname":"Injustice, Liberalism & Gomburza Martyrdom",
+                    "qlk":"RZL_Q3"
                 }
             ]
         }

@@ -129,9 +129,7 @@ window.onload = async () => {
 function writeSubjects(){
     var parent = document.getElementById("side-pane");
     parent.innerHTML = "";
-    if(content.length == 0){
-        parent.innerHTML += '<div class="subject"><p id="subj-title">No Subjects</p>'
-    }
+    if(content.length == 0){parent.innerHTML += '<div class="subject"><p id="subj-title">No Subjects</p>';}
     for(x = 0; x < content.length; x++){
         var cont = content[x].subj_name;
         var quizes = getQzs(content[x].qk);
