@@ -32,7 +32,7 @@
             "answer":["Tautology"]
         },{
             "question":"______ is compound statement that is false for all possible combinations of truth values of the propositional variables also called logially false or absurdity.",
-            "answer":["Contradictions"]
+            "answer":["Contradiction","Contradictions"]
         },{
             "question":"_______ is a compound statement that can be either true or false, depending on the truth values of the propositional variables are neither a tautology nor contradiction",
             "answer":["Contingency"]
