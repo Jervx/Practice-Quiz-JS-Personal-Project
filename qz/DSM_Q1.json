@@ -23,7 +23,7 @@
             "answer":["True"]
         },{
             "question":"________ is a statement composed of two or more simple statements connected by logical connectives \"and\", \"or\", \"if then\", \"not\", \"if and only if\", and \"exclusive-\".",
-            "answer":["Compound Statements"]
+            "answer":["Compound Statements","Compound Statement"]
         },{
             "question":"A statement which is not compound is called ________",
             "answer":["simple or atomic","simple","atomic"]
