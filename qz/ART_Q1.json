@@ -166,7 +166,7 @@
             "question":"True or False<br><br>In the most basic classification, colors can be divided into three groups: primary, secondary and tertiary.",
             "answer": ["True"]
         },{
-            "question":"____ is the term for the pure spectrum colors commonly referred to by the "color names" - red, orange, yellow, blue, green violet - which appear in the hue circle or rainbow. Theoretically all hues can be mixed from three basic hues, known as primaries.",
+            "question":"____ is the term for the pure spectrum colors commonly referred to by the \"color names\" - red, orange, yellow, blue, green violet - which appear in the hue circle or rainbow. Theoretically all hues can be mixed from three basic hues, known as primaries.",
             "answer": ["Hue"]
         },{
             "question":"A _______ _____ is an abstract illustrative organization of color hues around a circle, that shows relationships between primary, secondary, and tertiary colors, etc.",
