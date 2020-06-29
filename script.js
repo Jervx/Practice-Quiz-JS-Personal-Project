@@ -34,7 +34,7 @@ function nextQ(){
         printScore();
         return;
     }
-    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" style="text-justify:inter-word;" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button><button id="cancel" onclick="quizCancel()">Cancel Quiz Attempt</button>'
+    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" style="text-justify:inter-word;" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button><button id="cancel" onclick="quizCancel()">Cancel Quiz</button>'
 
     document.getElementById("subm").innerHTML = "Check";
     document.getElementById("subm").removeEventListener("click",nextQ);
