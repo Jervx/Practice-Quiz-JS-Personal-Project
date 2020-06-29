@@ -93,6 +93,7 @@ function quizLoader(subjPtr){
     }
     curSubj = content[parseInt(subjPtr)];
     fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
+    //fetch("qz/"+subjPtr+".json")
     .then(function(resp) {
         return resp.json();
       })
