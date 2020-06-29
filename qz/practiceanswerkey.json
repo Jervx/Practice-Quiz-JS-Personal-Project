@@ -1,0 +1,254 @@
+
+{
+    "question": "The science or study of how to evaluate arguments and reasoning",
+    "answer": ["Logic"]
+    
+    "question": "The _____ ____ of a statement is the truth and falsity of the statement",
+    "answer": ["truth value"]
+    
+    "question":"________ is a declarative sentence which is either true or false, but not both",
+    "answer":["Statement","Proposition","Statement or Proposition"]
+    
+    "question": "______ is a variable which used to represent a statement",
+    "answer": ["Propositional Variable"]
+    
+    "question": "______ written using propositional logic notation, p, q, and r are used to represent statements",
+    "answer": ["Formal Propositional"]
+    
+    "question":"True or false<br><br>\"Mathematics is fun\" is an example of statement",
+    "answer":["True"]
+    
+    "question":"________ is a statement composed of two or more simple statements connected by logical connectives \"and\", \"or\", \"if then\", \"not\", \"if and only if\", and \"exclusive-\".",
+    "answer":["Compound Statements"]
+    
+    "question":"A statement which is not compound is called ________",
+    "answer":["simple or atomic","simple","atomic"]
+    
+    "question":"______ is a compound statement that is true for all possible combinations of truth values of the propositional variables also called logially true.",
+    "answer":["Tautology"]
+    
+    "question":"______ is compound statement that is false for all possible combinations of truth values of the propositional variables also called logially false or absurdity.",
+    "answer":["Contradiction","Contradictions"]
+    
+    "question":"_______ is a compound statement that can be either true or false, depending on the truth values of the propositional variables are neither a tautology nor contradiction",
+    "answer":["Contingency"]
+    
+    "question":"_______ _______ is a collection of wires and switches connecting two terminals, X and Y",
+    "answer":["Switching Network","Switching Networks"]
+    
+    "question":"___ _____ is the branch of mathematics that studies sets or the mathematical science of the infinite.",
+    "answer":["Set Theory"]
+    
+    "question":"True or False<br><br>A Set is an unordered well-defined collection of objects.",
+    "answer":["True"]
+    
+    "question":"An _____ _____ is a set whose elements are unlimited or uncountable, and the last element cannot be specified.            ",
+    "answer":["Infinite Set"]
+    
+    "question":"A ____ ___ is a set with only one element, also a Singleton.",
+    "answer":["Unit Set"]
+    
+    "question":"A unique set with no elements is called _____ ___, or Null Set.            ",
+    "answer":["Empty Set"]
+    
+    "question":"All sets under investigation in any application of set theory are assumed to ba contained in some large fixed set called the _______ ___, denoted by U",
+    "answer":["Universal Set"]
+    
+    "question":"_______ of a set is the number of elements or members in the set, the cardinality of set A is denoted by n(A)",
+    "answer":["Cardinality","Cardinal Number"]
+    
+    "question":"_______ ______- the elements of the set are enumerated and separated by a comma. Also called tabulation method.",
+    "answer":["Roster Method"]
+    
+    "question":"_______ ______ – a descriptive phrase is used to describe the elements or members of the set. It is also called Set Builder Notation, it is written as {x|P(x)}.",
+    "answer":["Rule Method"]
+    
+    "question":"What do you mean by this symbol ⊆",
+    "answer":["Subset","subsets"]
+    
+    "question":"What do you mean by this symbol ⊇",
+    "answer":["Superset","supersets"]
+    
+    "question":"_______ ____– If A and B are sets. A is called a subset of B, written A ⊂ B, if and only if every element of A is also an element of B but there is at least one element of B that is not in A.",
+    "answer":["Proper Subset","Proper Subsets"]
+    
+    "question":"What do you mean by this symbol ⊂",
+    "answer":["Proper Subset"]
+    
+    "question":"What do you mean by this symbol ⊃",
+    "answer":["Proper Superset"]
+    
+    "question":"True or False<br><br> This symbol ⊄ means not a proper superset",
+    "answer":["True"]
+    
+    "question":"____ - Symbol ⋃",
+    "answer":["Union"]
+    
+    "question":"____ - Symbol ⋂",
+    "answer":["Intersection"]
+    
+    "question":"____ - Symbol ᶜ",
+    "answer":["Complement"]
+    
+    "question":"____ - Symbol –",
+    "answer":["difference"]
+    
+    "question":"____ - Symbol ⊕",
+    "answer":["Symmetric Difference"]
+    
+    "question":"____ - Symbol ⋃",
+    "answer":["Union"]
+    
+    "question":"",
+    "answer":[""]
+    
+    "question":"______ is an unordered collection of object or a collection of elements.",
+    "answer":["Sets","Set"]
+    
+    "question":"True or False <br>Set Theory was created by a German Mathematician born in Russia named Georg Ferdinand Ludwig Philip Cantor",
+    "answer":["True"]
+    
+    "question":"Objects in a set are also called the _______ of the set.",
+    "answer":["Elements or Members","Elements","Members","Element","Member"]
+    
+    "question":"True or false<br><br>Two sets are equal if and only if they have the same elements",
+    "answer":["True"]
+    
+    "question":"Who developed ven diagram?",
+    "answer":["John Venn"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of first seven whole numbers.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of letters in the word empty.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of positive odd numbers.",
+    "answer":["Infinite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of consonants in the English alphabet.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br> The set of the provinces in the Philippines",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of mayors in the National Capital Region",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of living organisms in the Pacific Ocean",
+    "answer":["Infinite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of fractions in integers.",
+    "answer":["Empty"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of people who speak English language.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of parallel line to the y-axis.",
+    "answer":["Infinite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of numbers which are multiple of 100",
+    "answer":["Infinite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of mammals living on earth.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of circles through the origin (0,0).",
+    "answer":["Empty"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of even prime numbers.",
+    "answer":["Finite"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br> The set of counting numbers less than zero.",
+    "answer":["Empty"]
+    
+    "question":"Choose answer either Finite, Infinite or Empty<br><br><br>The set of months in a year.",
+    "answer":["Finite"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A) ",
+    "answer":["5"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(B) ",
+    "answer":["4"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(C) ",
+    "answer":["3"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(D) ",
+    "answer":["4"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(U) ",
+    "answer":["11"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A ⋃ B) ",
+    "answer":["6"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A ⋂ C) ",
+    "answer":["1"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(C ⋂ D) ",
+    "answer":["1"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(B ⋃ C) ",
+    "answer":["7"]
+    
+    "question":"Given <br>U = { a, b, c, d, e, f, g, h, i, j, k }<br>A = { a, b, c, e, f }<br>B = { b, c, d, e }<br>C = { f, g, h }<br>D = { a, e, g, i }<br><br> What is the cardinal number of set n(A ⋂ B ⋂ C) ",
+    "answer":["0"]
+    
+    "question":"Symbol ℕ Represents what? <br> Ex: 1,2,3,4,5....",
+    "answer":["Counting Numbers","Counting Number"]
+    
+    "question":"Symbol 𝕎 Represents what? <br>Ex: 0,1,2,3,4,5,6...",
+    "answer":["Whole Numbers","Whole Number"]
+    
+    "question":"Symbol ℤ Represents what?<br> Ex: ....-3,-2,-1,0,1,2,3...",
+    "answer":["Integers","Integer"]
+    
+    "question":"Symbol ℚ Represents what?<br> Ex:1/2,3/4,11/7,-6/13",
+    "answer":["Rational Numbers","Rational Number"]
+    
+    "question":"True or false<br><br>ℯ (Euler’s Number, 2.71828),<br>Π (Pi, 3.14159265),<br>√2, √(3&7)<br><br> Are examples of Irrational Numbers",
+    "answer":["True"]
+    
+    "question":"Symbol ℝ Represents what?",
+    "answer":["Real Numbers","Real Number"]
+    
+    "question":"Let :𝑓(𝑥) = x² + 4x + 3 <br> 𝑔(𝑥) = x + 3 <br>Find: (𝑓 + 𝑔)(2)",
+    "answer":["20"]
+    
+    "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3 <br>Find: (𝑓 - 𝑔)(1)",
+    "answer":["4"]
+    
+    "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(𝑓 • 𝑔)(-1)",
+    "answer":["0"]
+    
+    "question":"Let :𝑓(𝑥) = x² + 4x + 3<br>𝑔(𝑥) = x + 3<br>Find:(f/g)(3)",
+    "answer":["4"]
+    
+    "question":"The output of one function serves as the input of another function",
+    "answer":["Composite Function"]
+    
+    "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑓 ∘ 𝑔)(1)",
+    "answer":["30"]
+    
+    "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br>Find: (𝑔 ∘ 𝑓)(2)",
+    "answer":["7"]
+    
+    "question":"Let : 𝑓(𝑥) = x² – x<br>𝑔(𝑥) = x + 5<br> Find: (𝑓 ∘ 𝑓)(-1)",
+    "answer":["2"]
+    
+    "question":"_______ ____ - Suppose that an event can be performed by either of two different procedures, with m possible outcomes for the first procedure and n possibilities for the second. If the two sets of possible outcomes are disjoint, then, the number of possible outcomes for the event is m+n.",
+    "answer":["Sum Rule"]
+    
+    "question":"______ ____ - In a sequence of n1 events in which the first has m possibilities and the second event has n2, and the third event has n3, and so forth, the total number of possibilities of the sequence will be n1(n2)(n3)…(nk)",
+    "answer":["Product Rule"]
+    
+    "question":"_____ ____ - n!",
+    "answer":["Factorial Notation"]
+    
+    "question":"_________ - is an arrangement of all or part of a number of things in a definite order",
+    "answer":["Permutation"]
+    
+    "question":"_______ - is a grouping or selection of all or part of a number of things (or objects) without reference to the arrangement of the things selected",
+    "answer":["Combination"]
+}

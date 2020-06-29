@@ -245,6 +245,15 @@ span{
     color: var(--font-clr);
 }
 
+#cancel{
+    transition: 0.2s ease-in;
+    background-color: rgb(224, 174, 174);
+}
+#cancel:hover{
+    transition: 0.2s ease-in;
+    background-color: rgb(204, 146, 146);
+}
+
 .nav-cont{
     display:flex;
 }

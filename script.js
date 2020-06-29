@@ -34,7 +34,7 @@ function nextQ(){
         printScore();
         return;
     }
-    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button>'
+    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" style="text-justify:inter-word;" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button><button id="cancel" onclick="quizCancel()">Cancel Quiz Attempt</button>'
 
     document.getElementById("subm").innerHTML = "Check";
     document.getElementById("subm").removeEventListener("click",nextQ);
@@ -44,6 +44,11 @@ function nextQ(){
 
 function printScore(){
     document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 style = "margin-left: 0; text-align: center" class="h1-custom">'+(over * 0.5 < score? yey[rand(yey.length)]: yayks[rand(yey.length)])+'<br>'+'You Got '+score+' / '+over+'</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
+    reset();
+}
+
+function quizCancel(){
+    document.getElementById("mainCont").innerHTML = '<div id="finished" class ="defaultContent"><h1 style = "color:rgb(180,110,110);margin-left: 0; text-align: center" class="h1-custom">Quiz Cancelled</h1><button id="home-Btn" onclick="writeQDetails()">Home</button></div>';
     reset();
 }
 
