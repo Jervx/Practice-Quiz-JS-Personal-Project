@@ -324,4 +324,8 @@ nav{
         box-shadow: 2px 2px 20px rgba(200,200,200,0.2);
         margin-bottom: 5px;
     }
+    
+    .textBox.button{
+        width: 80%;
+    }
 }
