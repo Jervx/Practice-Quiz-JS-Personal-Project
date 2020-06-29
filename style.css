@@ -233,10 +233,21 @@ span{
 }
 
 #home-Btn{
+    transition: 0.2s ease;
     width: 30%;
-    margin-top: 30px;
-    padding:10px 20px 10px 20px;
-    font-size: 20px;
+    border:none;
+    background-color: rgb(163, 216, 174);
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    padding:10px;
+    margin-top:20px;
+}
+
+#home-Btn:hover{
+    transition: 0.2s ease;
+    background-color: rgb(130, 189, 142);
 }
 
 .qstat{
