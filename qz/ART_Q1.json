@@ -12,7 +12,285 @@
         },{
             "question": "DIVISION OF THE ARTS that are heard, timed arts; exist in time",
             "answer": ["Auditory"]
-        
+        },{
+            "question": "DIVISION OF THE ARTS that combines visual & auditory elements",
+            "answer": ["Combined/performing arts","Combined performing arts","Combined art","Combined arts","performing art","performing arts","Combined performing art","combined"]
+        },{
+            "question": "True or False<br><br>Example of Visual arts are <br>'paintings, sculptures and architectures'",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>Example of Auditory arts are <br>'music and poetry'",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br> Example of Combined arts: drama & theatre, dancing, cinema & TV, opera",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is : Create Beauty",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Provide decoration ",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Reveal truth",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Immortalize",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Express religious values",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Record and commemorate experience",
+            "answer": ["True"]
+        },{
+            "question": "True or False<br><br>One of Purposes OF Arts is :Create order & harmony",
+            "answer": ["True"]
+        },{
+            "question": "According to experts, these paintings were purported to belong to Upper Paleolithic Age, several thousands of years before the current era. What are these paintings?",
+            "answer": ["Prehistoric Paintings"]
+        },{
+            "question": "________ - Is the kind of art form that the population is most likely more exposed to, but its variations are so diverse they range from sculptures that you see in art galleries to the last movie you saw.",
+            "answer": ["Visual Arts","Visual Art"]
+        },{
+            "question": "True or False<br><br>Some mediums of visual arts include paintings, drawings, lettering, printing, sculptures, digital imaging, and more.",
+            "answer": ["True"]
+        },{
+            "question": "_______ refers to the art of putting together successions of still images in order to create an illusion of movement",
+            "answer": ["Film"]
+        },{
+            "question": "___________ focuses on its aesthetic, cultural, and social value and is considered as both an art and an industry.",
+            "answer": ["Filmmaking"]
+        },{
+            "question":"________ ___ is a live art and the artist’s medium is mainly the human body which he or she uses to perform, but also employs other kind of art such as visual art, props, or sound.",
+            "answer": ["Performance Art"]
+        },{
+            "question":"_______ is an art form where the artist expresses his emotions not by using paint, charcoal, or camera, but expresses them through words.",
+            "answer": ["Poetry"]
+        },{
+            "question":"________ is the art of designing and constructing buildings and other types of structures.It is often referred to as the “mother of the arts” because it houses, serves as background for, or occurs in relation to other fields of art.Materials used include stone, concrete, brick, wood, steel, glass, and plaster.",
+            "answer": ["Architecture"]
+        },{
+            "question":"______ is series of movements that follows the rhythm of the music accompaniment.",
+            "answer": ["Dance"]
+        },{
+            "question":"French Word of Dance",
+            "answer": ["Dansier"]
+        },{
+            "question":"____________ is the art of making dances.",
+            "answer": ["Choreography"]
+        },{
+            "question":"_________ ____ Literary art goes beyond the usual professional, academic, journalistic, and other technical form of writing. It focuses on writing using a unique style, not following a specific form or norm. It may include both fiction and non-fiction such as novels, biographies and poems. ",
+            "answer": ["Literary Art","Literary Arts"]
+        },{
+            "question":"__________ uses live performers to present accounts or imaginary events before a live audience.",
+            "answer": ["Theater"]
+        },{
+            "question":"________ incorporate elements of style and design to everyday items with the aim of increasing their aesthetical value. Artists in this field bring beauty, charm, and comfort into many things that are useful in everyday life",
+            "answer": ["Applied Art","Applied Arts"]
+        },{
+            "question":"This function of art is used for variety of illness, both physical and mental.",
+            "answer": ["Art As A Therapy","As A Therapy"]
+        },{
+            "question":"This function of art is product of a particular time and place, an artwork represents the ideas and technology of that specific time and place. As we look back over history, we find in art striking, and in some cases, the only, tangible records of some peoples. The insights we gain into cultures, including our own are enhanced tremendously by such artifacts as paintings, sculptures, poems, plays, and buildings.",
+            "answer": ["Art As Artifact","As Artifact"]
+        },{
+            "question":"This function of art is varied and highly subjective. This means that its function depend on the person- the artist who created the art.",
+            "answer": ["Personal Function","Personal Function of Art"]
+        },{
+            "question":"This function of art is considered to have a social function if and when it addresses a particular collective interest as opposed to a personal interest. Political art is a very common example of an art with a social function. Art may convey message of protest, contestation, or whatever message the artist intends his work to carry",
+            "answer": ["Social Function","Social Function of Art"]
+        },{
+            "question":"This function of art is the easiest to spot and understand. The physical functions of art can be found in artworks that are crafted in order to serve some physical purpose.",
+            "answer": ["Physical Function","Physical Function of Art"]
+        },{
+            "question":"__________ - refers to the visual focus or the image that may be extracted from examining the artwork.",
+            "answer": ["Subject","Subjects"]
+        },{
+            "question":"__________ - is the meaning that is communicated by the artist or the artwork.",
+            "answer": ["Content"]
+        },{
+            "question":"Give the 2 types of Subject<br>sepearate answer with comma",
+            "answer": ["Representational art,Non-Representational art","Non-Representational art,Representational art","Representational art,Non Representational art","Non Representational art,Representational art"]
+        },{
+            "question":"________ ____ These types of art have subjects that refer to object or events occurring in the real world. Often, it is also termed figurative art, because as the name suggest, the figures depicted are easy to makes out and decipher",
+            "answer": ["Representational Art","Representational Arts"]
+        },{
+            "question":"__________ ____This art does not make a reference to the real world, whether it is a person, place, thing, or even a particular event. It is stripped down to visual elements such as shapes, lines, emotion, and even concept.",
+            "answer": ["Non-Representational art","Non Representational art","Non-Representational arts","Non Representational arts"]
+        },{
+            "question":"True or False <br> <br> These are the diffe kinds of Subjects<br>'History,Still Life,Landscape,SeaScape,City Scape,Animals,Figures,Mythology,Dreams,Myth,Fantasies,Nature'",
+            "answer": ["True"]
+        },{
+            "question":"This level of meaning pertains to the most rudimentary level of meaning for it may be extracted from the identifiable or recognizable forms in the artwork and understanding how these elements relate to one another.",
+            "answer": ["Factual"]
+        },{
+            "question":"This level of meaning pertains to the acknowledged interpretation of the artwork using motifs, signs, symbols and other cyphers as bases of its meaning. These conventions are established through time, strengthened by recurrent use and wide acceptance by its viewers or audience and scholars who study then.",
+            "answer": ["Conventional Meaning","Conventional"]
+        },{
+            "question":"This level of meaning are consulted, a variety of meaning may arise when a particular work of art is read. These meanings stem from the viewer’s or audience’s circumstances that come into play when engaging with art",
+            "answer": ["Subjectivities"]
+        },{
+            "question":"True or False<br><br>These are the Elements of Arts<br>'Lines,Colors,Texture,Perspective,Space,Form,Volume'",
+            "answer": ["True"]
+        },{
+            "question":"_______ are the visual components which are required to create a work of art",
+            "answer": ["Elements of Art","Elements of Visual Arts"]
+        },{
+            "question":"________ is a mark on a surface that describes a shape or outline. It can create texture and can be thick and thin.  Types of this can include actual, implied, vertical, horizontal, diagonal and contour line.",
+            "answer": ["Line"]
+        },{
+            "question":"True or False<br><br>Line is an important element at the disposal of every artist.<br>always has direction, always moving.<br>as used in any work of art, may either be straight or curved.",
+            "answer": ["True"]
+        },{
+            "question":"_____ lines are poised for action. They are poised, balanced, forceful, and dynamic. They express an impression of dignity.",
+            "answer": ["Vertical"]
+        },{
+            "question":"_______ lines are lines of repose and serenity. They express ideas of calmness and quiescence.",
+            "answer": ["Horizontal"]
+        },{
+            "question":"______ lines are used to create feelings of movement or action.",
+            "answer": ["Diagonal"]
+        },{
+            "question":"______ lines sometimes referred as S curves, suggest gracefulness or sexiness.",
+            "answer": ["Curved","Curve"]
+        },{
+            "question":"Give the 3 main types of lines. Separate answer with coma",
+            "answer": ["Repitition,Contrast,Transition","Repitition,Contrast,Transition line"]
+        },{
+            "question":"________ ______ can direct a person’s eye to a main focal point or, if used incorrectly, can draw the eye away from the subject or appear to cut a photo in half.",
+            "answer": ["Leading lines","Leading Line"]
+        },{
+            "question":"______ refers to the visual perception of light being reflected from a surface of an artwork.",
+            "answer": ["Color"]
+        },{
+            "question":"True or False<br><br>In the most basic classification, colors can be divided into three groups: primary, secondary and tertiary.",
+            "answer": ["True"]
+        },{
+            "question":"____ is the term for the pure spectrum colors commonly referred to by the \"color names\" - red, orange, yellow, blue, green violet - which appear in the hue circle or rainbow. Theoretically all hues can be mixed from three basic hues, known as primaries.",
+            "answer": ["Hue"]
+        },{
+            "question":"A _______ _____ is an abstract illustrative organization of color hues around a circle, that shows relationships between primary, secondary, and tertiary colors, etc.",
+            "answer": ["Color Wheel"]
+        },{
+            "question":"______ refers to the lightness or darkness of a color. It is the quality which depends on the amount of light and dark in color.",
+            "answer": ["Value"]
+        },{
+            "question":"_______ refers to the brightness or darkness of color. It gives color strength. When a hue is vivid form, it is said to be in full intensity. When it is dulled, it is said to be",
+            "answer": ["Intensity"]
+        },{
+            "question":"______ are values above the normal",
+            "answer": ["Tints","Tint"]
+        },{
+            "question":"______ are values below the normal",
+            "answer": ["Shades","Shade"]
+        },{
+            "question":"This color is associated with death and gloom",
+            "answer": ["Black"]
+        },{
+            "question":"This color stands for purity and innocence",
+            "answer": ["White"]
+        },{
+            "question":"This color is associated with blood, anger and fear",
+            "answer": ["Red"]
+        },{
+            "question":"This color implies happiness and abundance",
+            "answer": ["Green"]
+        },{
+            "question":"______ is the element that deals more directly with the sense of touch.It has to do with the characteristics of surfaces which can be rough or smooth, fine or coarse, shiny or dull, plain or irregular.",
+            "answer": ["Texture"]
+        },{
+            "question":"_______ expresses the idea of how a surface might feel. For example, a painting of a blanket might convey the idea that the blanket is soft.",
+            "answer": ["Implied Texture"]
+        },{
+            "question":"______ is texture that can actually be felt. For example, a ceramic bowl might feature a carved texture that could be felt when holding that bowl.",
+            "answer": ["Actual Texture"]
+        },{
+            "question":"______ deals with the effect of distance upon the appearance of objects, by means of which the eye judges spatial relationships.",
+            "answer": ["Perspective"]
+        },{
+            "question":"______ perspective is the representation of an appearance of distance by means of converging lines.",
+            "answer": ["Linear"]
+        },{
+            "question":"______ perspective is the representation of relative distances of objects by gradations of tone or color.",
+            "answer": ["Aerial"]
+        },{
+            "question":"______ refers to how the artist fills the surface on which a work of art is created. It can also refer to the expression of depth within a work of art. ",
+            "answer": ["Space"]
+        },{
+            "question":"______ as an element of art, refers to distances or areas around, between or within components of a piece.",
+            "answer": ["Space"]
+        },{
+            "question":"______ can be positive (white or light) or negative (black or dark),open or closed, shallow or deep and two-dimensional or three-dimensional.",
+            "answer": ["Space"]
+        },{
+            "question":"Give the 2 kinds of Space. Separate answer with coma",
+            "answer": ["Positive Space, Negative Space","Negative Space, Positive Space"]
+        },{
+            "question":"_____ applies to the over-all design of a work of art. It describes the structure or shape of an object.",
+            "answer": ["Form"]
+        },{
+            "question":"True or False<br><br> Form refers to a three-dimensional object. As such, form is an art term that is only applied to those artworks that are three-dimensional, such as sculpture and pottery.",
+            "answer": ["True"]
+        },{
+            "question":"True or False<br><br>Form and shape can also be described as either organic or geometric.",
+            "answer": ["True"]
+        },{
+            "question":"This type of form are most often thought of as naturally occurring.",
+            "answer": ["Organic Forms","Organic Form"]
+        },{
+            "question":"This type of form are those which correspond to named regular shapes, such as squares, rectangles, circles, cubes, spheres, cones, and other regular forms.",
+            "answer": ["Geometric Forms","Geometric Form"]
+        },{
+            "question":"________ refers to the amount of space occupied in three dimensions.It refers to solidity or thickness.",
+            "answer": ["Volume"]
+        },{
+            "question":"True or False<br><br>Three Periods of Stone Age are Paleolithic, Mesolithic, Neolithic",
+            "answer": ["True"]
+        },{
+            "question":"______ - the late years of the old Stone Age.",
+            "answer": ["Paleolithic"]
+        },{
+            "question":"_______ - Middle Stone Age",
+            "answer": ["Mesolithic"]
+        },{
+            "question":"_______ - New Stone Age",
+            "answer": ["Neolithic"]
+        },{
+            "question":"<img src='https://mymodernmet.com/wp/wp-content/uploads/2019/09/venus-of-willendorf-1-1.jpg' width='200px'><br><br>What the heck is the name of this figure found and dated back in Mesolithic Period. This figure is a highly abstracted woman from highlighted body parts associated with fertility.",
+            "answer": ["Venus of Willendorf"]
+        },{
+            "question":"True or False<br><br>The Egyptian civilization can be divided into three periods: Old, Middle, and New Kingdom",
+            "answer": ["True"]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
+        },{
+            "question":"",
+            "answer": [""]
         }
     ]
 }
