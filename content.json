@@ -33,7 +33,12 @@
         {
             "subj_name":"Art Appreciation  🎨",
             "qkey":"sub3",
-            "qk":[]
+            "qk":[
+                {   
+                    "qname":"ART EXAM PRACTICE",
+                    "qlk":"ART_Q1"
+                }
+            ]
         },
         {
             "subj_name":"Rizal 📝",
