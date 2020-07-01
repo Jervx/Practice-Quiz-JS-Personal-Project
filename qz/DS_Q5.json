@@ -1,0 +1,71 @@
+{
+    "Subj_Name":"Data Structure & Algorithms",
+    "Quiz_Details":"Sorting Schemes",
+    "Quiz_No":"Quiz 5",
+    "Quiz_Questions":[
+        {
+            "question":"This sorting algorithm may be defined as the sorting algorithm that follows the approach of replacing the value in the first index with the smallest value in the array and keep it repeating until the list is sorted.",
+            "answer":["Bubble sort","Bubble"]
+        },{
+            "question":"This sorting algorithm is a very simple way of performing sorting. In this way to sort the array, the value has to be assigned to the array in the beginning before starting the sorting.",
+            "answer":["Bubble Sort","Bubble"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>10</th><th>5</th><th>2</th><th>4</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><Br>Using bubble sort what is the value of index[3] in pass 3?",
+            "answer":["10"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>15</th><th>2</th><th>6</th><th>18</th><th>3</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><br>Using bubble sort what is the value of index[1] in pass 1?",
+            "answer":["6"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>15</th><th>2</th><th>6</th><th>18</th><th>3</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><br>Using bubble sort what is the value of index[4] in pass 2?",
+            "answer":["18"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>15</th><th>2</th><th>6</th><th>18</th><th>3</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><br>Using bubble sort what is the value of index[3] in pass 3?",
+            "answer":["15"]
+        },{
+            "question":"This sorting Algorithm may be defined as another algorithm for sorting the list in which the array is bifurcated into two arrays where the first array is supposed to be empty while the second array consists of the unsorted list of values.",
+            "answer":["Selection Sort"]
+        },{
+            "question":"This sorting algorithm searches for the smallest values in the second array and when the value is found, it has been moved to the beginning of the first array that was empty. The approach is repeated again and the next smallest values will be shifted to the second index of the first array. The processes will keep on repeating until the second array became empty.",
+            "answer":["Selection Sort"]
+        },{
+            "question":"True or False<br><br>Selection Sort processes will be repeated until the first list is full of the sorted list and keep its primary focus to check if the second array is having value and if it is found positive, the program runs the sorting algorithm again. ",
+            "answer":["True"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>10</th><th>5</th><th>2</th><th>4</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><Br>Using Selection Sort what is the value of index[2] in pass 3?",
+            "answer":["5"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>10</th><th>5</th><th>2</th><th>4</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><Br>Using Selection Sort what is the value of index[0] in pass 2?",
+            "answer":["2"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>15</th><th>2</th><th>6</th><th>18</th><th>3</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><br>Using Selection sort what is the value of index[0] in pass 1?",
+            "answer":["2"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>15</th><th>2</th><th>6</th><th>18</th><th>3</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><br>Using Selection sort what is the value of index[4] in pass 4?",
+            "answer":["18"]
+        },{
+            "question":"This sorting Algorithm picks elements one by one and places it to the right position where it belongs in the sorted list of elements.",
+            "answer":["Insertion Sort"]
+        },{
+            "question":"A  simple sorting algorithm that works the way we sort playing cards in our hands.",
+            "answer":["Insertion Sort"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>10</th><th>5</th><th>2</th><th>4</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><Br>Using Insertion Sort, what is the value of index[3] in pass 1?",
+            "answer":["4"]
+        },{
+            "question":"</p><div class=\"taburu\"><table><tr><th>10</th><th>5</th><th>2</th><th>4</th></tr></table></div><p id=\"question_holder\" class=\"centeredText\"><Br>Using Insertion Sort, what is the value of index[1] in pass 2?",
+            "answer":["5"]
+        },{
+            "question":"This Sorting algorithm can be defined as the other algorithm for sorting the list in which the approach is to divide the array in terms of greater than and less than values until the entire values if divided into individuals forms.",
+            "answer":["Quick Sort"]
+        },{
+            "question":"n this algorithm, the value of the last index of the array has been selected as a pivot and all the values smaller than pivot has been shifted to the array that is expected to occur in the left of the value and the elements having a higher value than the pivot are shifted to the right array.",
+            "answer":["Quick Sort"]
+        },{
+            "question":"____________ is the only algorithm that leads to dividing the array until all the values are separated into the individual arrays. They will be then added or aggregated in a single array which is considered as the sorted list",
+            "answer":["Quicksort"]
+        },{
+            "question":"Say Empty",
+            "answer":["Wrong. You just need to say Empty! not type in this box.",""]
+        }
+    ]
+}

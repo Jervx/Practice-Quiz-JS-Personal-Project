@@ -341,3 +341,39 @@ nav{
         font-size: 16px;
     }
 }
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-width: 20px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+    margin:10px;
+}
+
+td{
+    font-size: 15px;
+    background-color: rgb(143, 204, 171);
+    box-shadow: 1px 2px 15px rgba(130,130,130,0.3);
+    border-radius: 15px;
+    color:white;
+    border:none;
+}
+
+th{
+    background-color: rgb(85, 104, 85);
+    color:white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.taburu{
+    margin: 0px 20px 10px 20px;
+}
