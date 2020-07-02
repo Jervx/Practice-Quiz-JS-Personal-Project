@@ -64,8 +64,32 @@
             "question":"____________ is the only algorithm that leads to dividing the array until all the values are separated into the individual arrays. They will be then added or aggregated in a single array which is considered as the sorted list",
             "answer":["Quicksort"]
         },{
-            "question":"Say Empty",
+            "question":"Bonus Question: Say Empty",
             "answer":["Wrong. You just need to say Empty! not type in this box.",""]
+        },{
+            "question":"This Sorting Algorithm can be defined as the sorting algorithm that works by searching the maximum element in the list and place it to the last. The algorithm performs the action recursively until the array gets sorted into the ascending way.",
+            "answer":["Heap Sort"]
+        },{
+            "question":"This Sorting Algorithm is very time taking the process to choose the maximum value and move it to the last and hence it is considered as a less efficient sorting approach when it comes to sorting the large list. However, it works fine with the list that has a limited number of values.",
+            "answer":["Heap Sort"]
+        },{
+            "question":"",
+            "answer":[]
+        },{
+            "question":"",
+            "answer":[]
+        },{
+            "question":"",
+            "answer":[]
+        },{
+            "question":"",
+            "answer":[]
+        },{
+            "question":"",
+            "answer":[]
+        },{
+            "question":"",
+            "answer":[]
         }
     ]
 }
