@@ -71,7 +71,7 @@
             "answer":["Heap Sort"]
         },{
             "question":"This Sorting Algorithm is very time taking the process to choose the maximum value and move it to the last and hence it is considered as a less efficient sorting approach when it comes to sorting the large list. However, it works fine with the list that has a limited number of values.",
-            "answer":["Heap Sort"]
+            "answer":["Heap Sort","Heapuh Sorthu"]
         }
     ]
 }
