@@ -1,0 +1,36 @@
+{
+    "Subj_Name":"日本人",
+    "Quiz_Details":"Algorithms",
+    "Quiz_No":"Quiz 4",
+    "Quiz_Questions":[
+        {
+            "question":"Equivalent of あ",
+            "answer":["あ is A","A"]
+        },
+        {
+            "question":"Equivalent of い",
+            "answer":["い is I"]
+        },{
+            "question":"Equivalent of う",
+            "answer":["う is U"]
+        },
+        {
+            "question":"Equivalent of え",
+            "answer":["え is E"]
+        },{
+            "question":"Equivalent of お",
+            "answer":["お is O"]
+        },
+        {
+            "question":"Equivalent of か",
+            "answer":["か is KA"]
+        },{
+            "question":"Equivalent of き",
+            "answer":["き is KI"]
+        },
+        {
+            "question":"Equivalent of ",
+            "answer":[""]
+        }
+    ]
+}

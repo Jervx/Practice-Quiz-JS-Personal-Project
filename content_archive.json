@@ -32,13 +32,30 @@
                     "qlk":"DSM_Q1"
                 }
             ]
-        },{
-            "subj_name":"日本人",
+        },
+        {
+            "subj_name":"Art Appreciation  🎨",
             "qkey":"sub3",
             "qk":[
-                {
-                    "qname":"Hiragana",
-                    "qlk":"ひらがな.json"
+                {   
+                    "qname":"ART APPRECIATION EXAM PRACTICE",
+                    "qlk":"ART_Q1"
+                }
+            ]
+        },
+        {
+            "subj_name":"Rizal 📝",
+            "qkey":"sub4",
+            "qk":[
+                {   
+                    "qname":"Life & Family Of Rizal",
+                    "qlk":"RZL_Q1"
+                },{
+                    "qname":"Romances Of Rizal",
+                    "qlk":"RZL_Q2"
+                },{
+                    "qname":"Injustice, Liberalism & Gomburza Martyrdom",
+                    "qlk":"RZL_Q3"
                 }
             ]
         }

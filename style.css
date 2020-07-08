@@ -367,6 +367,11 @@ td{
     border:none;
 }
 
+.memeContainer{
+    max-width: 300px;
+    background-position: center;
+}
+
 th{
     background-color: rgb(85, 104, 85);
     color:white;

@@ -9,15 +9,18 @@ const loadSubjects =
     .then(function(resp) {
         return resp.json();}).then(function(obj) {return obj.subjects;});
 
-let score = 0;
-let over = 0;
-let curSubj;
-let curAnswer;
-let curPtr = 0;
-let isAnswering = false;
-var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!","😍 Sarap mo talaga!","😍 Crush na kita!","🎉 Shet ang galing!"];
-var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap! ","👎 hays!, ","🙁....!!! ","🤾 Batuhin kita eh! ","🙅Gadon* \"Bobo!\" ","🤷 What the heck!"];
-var alter = 0;
+    let score = 0;
+    let over = 0;
+    let curSubj;
+    let curAnswer;
+    let curPtr = 0;
+    let isAnswering = false;
+    var yey = ["👌 Noice!","👍 Wow!","👏 Lodi!","💪 lakas!","🔥 Damn!","🤘 Petmalu!","🙏 Teach Me Senpai!","😍 Sarap mo talaga!","😍 Crush na kita!","🎉 Shet ang galing!"];
+    var yayks = ["🤔 ha? ","🤨 eh?","🤦 *slap! ","👎 hays!, ","🙁....!!! ","🤾 Batuhin kita eh! ","🙅Gadon* \"Bobo!\" ","🤷 What the heck!"];
+    var mmR = ["https://media3.giphy.com/media/l2YWykMPCmCb9lLWM/giphy.gif","https://media1.tenor.com/images/bb6aa5121851f1b57a2cb50f73005c66/tenor.gif","https://media2.giphy.com/media/3oz8xrlxi4mm1KnE7C/giphy.gif","https://media3.giphy.com/media/l0MYIH1uwQf49mSFq/giphy.gif"];
+    var mmW = ["https://media3.giphy.com/media/Wq9RLX06zRg4UM42Qf/giphy.gif","https://media1.giphy.com/media/l1IY5J4Cfw8JLi40M/giphy.gif","https://media1.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif","https://memecrunch.com/meme/BYWD0/nice-try/meme/BYWD0/nice-try/image.gif","https://media.tenor.com/images/0ad1fc5a3d03dd429b572ff7562cd47d/tenor.gif","https://media1.tenor.com/images/d310851c74d90c7c9b306783f3f3b4dd/tenor.gif","https://media1.tenor.com/images/187d3a5e68ffb64dea177a74e5026c8b/tenor.gif"];
+    var alter = 0;
+        
 
 function reset(){
     score = 0;
@@ -34,7 +37,7 @@ function nextQ(){
         printScore();
         return;
     }
-    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" style="text-justify:inter-word;" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button><button id="cancel" onclick="quizCancel()">Cancel Quiz</button>'
+    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" style="text-justify:inter-word;" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div id="txttb" class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm">Check</button><button id="cancel" onclick="quizCancel()">Cancel Quiz</button>'
 
     document.getElementById("subm").innerHTML = "Check";
     document.getElementById("subm").removeEventListener("click",nextQ);
@@ -73,13 +76,14 @@ function wrightIndi(vr){
 
     document.getElementById("subm").removeEventListener("click",checkAnswer);
     document.getElementById("subm").addEventListener("click",nextQ);
+    document.getElementById("txttb").innerHTML += '<img class="memeContainer" src="'+vr? mmR[rand(mmR.length)]:mmW[rand(mmW.length)]+'">';
     document.getElementById("qstat").innerHTML = vr? "Correct <span class=\"icon\">"+yey[rand(yey.length)]+"</span>":"Wrong <span class=\"icon\"> "+ yayks[rand(yayks.length)] +" </span> it's "+curAnswer[0];
     console.log(document.getElementById("qstat").textContent);
 }
 
 function writeFrm(){
     over = curSubj.Quiz_Questions.length;
-    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm" onclick="checkAnswer()">Check</button>'
+    document.getElementById("mainCont").innerHTML = '<div class="question-holder"><p id="indicator" class="centeredText">Question '+(curPtr +  1)+' of '+over+'</p><p id="question_holder" class="centeredText">'+curSubj.Quiz_Questions[curPtr].question+'</p></div><div id="txttb" class="textBox"><input id="txt-box" type="text" placeholder="answer"><p id="qstat" class="qstat"></p><button id="subm" onclick="checkAnswer()">Check</button>'
     curAnswer = curSubj.Quiz_Questions[curPtr].answer;
     document.getElementById("subm").addEventListener("click",checkAnswer);
     nextQ();
@@ -92,8 +96,8 @@ function quizLoader(subjPtr){
         return;
     }
     curSubj = content[parseInt(subjPtr)];
-    //fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
-    fetch("qz/"+subjPtr+".json")
+    fetch("https://jervx.github.io/Practice-Quiz-JS-Personal-Project/qz/"+subjPtr+".json")
+    //fetch("qz/"+subjPtr+".json")
     .then(function(resp) {
         return resp.json();
       })
