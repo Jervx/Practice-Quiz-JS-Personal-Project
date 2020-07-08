@@ -73,10 +73,8 @@ function checkAnswer(){
 
 function wrightIndi(vr){
     document.getElementById("subm").innerHTML = "Next";
-
     document.getElementById("subm").removeEventListener("click",checkAnswer);
     document.getElementById("subm").addEventListener("click",nextQ);
-    document.getElementById("txttb").innerHTML += '<img class="memeContainer" src="'+vr? mmR[rand(mmR.length)]:mmW[rand(mmW.length)]+'">';
     document.getElementById("qstat").innerHTML = vr? "Correct <span class=\"icon\">"+yey[rand(yey.length)]+"</span>":"Wrong <span class=\"icon\"> "+ yayks[rand(yayks.length)] +" </span> it's "+curAnswer[0];
     console.log(document.getElementById("qstat").textContent);
 }

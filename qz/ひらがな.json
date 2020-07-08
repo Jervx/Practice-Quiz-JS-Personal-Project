@@ -9,28 +9,148 @@
         },
         {
             "question":"Equivalent of い",
-            "answer":["い is I"]
+            "answer":["い is I","I"]
         },{
             "question":"Equivalent of う",
-            "answer":["う is U"]
+            "answer":["う is U","U"]
         },
         {
             "question":"Equivalent of え",
-            "answer":["え is E"]
+            "answer":["え is E","E"]
         },{
             "question":"Equivalent of お",
-            "answer":["お is O"]
+            "answer":["お is O","O"]
         },
         {
             "question":"Equivalent of か",
-            "answer":["か is KA"]
+            "answer":["か is KA","KA"]
         },{
             "question":"Equivalent of き",
-            "answer":["き is KI"]
+            "answer":["き is KI","KI"]
+        },
+        {
+            "question":"Equivalent of く",
+            "answer":["く is KU","KU"]
+        },
+        {
+            "question":"Equivalent of け",
+            "answer":["け is KE","KE"]
+        },
+        {
+            "question":"Equivalent of こ",
+            "answer":["こ is KO","KO"]
+        },
+        {
+            "question":"Equivalent of さ",
+            "answer":["さ is SA","SA"]
+        },
+        {
+            "question":"Equivalent of し",
+            "answer":["し is SHI","SHI"]
         },
         {
             "question":"Equivalent of ",
-            "answer":[""]
+            "answer":["す is SU","SU"]
+        },
+        {
+            "question":"Equivalent of せ",
+            "answer":["せ is SE","SE"]
+        },
+        {
+            "question":"Equivalent of そ",
+            "answer":["そ is SO","SO"]
+        },
+        {
+            "question":"Equivalent of た",
+            "answer":["た is TA","TA"]
+        },
+        {
+            "question":"Equivalent of ち",
+            "answer":["ち is CHI","CHI"]
+        },
+        {
+            "question":"Equivalent of つ",
+            "answer":["つ is TSU","TSU"]
+        },
+        {
+            "question":"Equivalent of て",
+            "answer":["て is TE","TE"]
+        },
+        {
+            "question":"Equivalent of と",
+            "answer":["と is TO","TO"]
+        },
+        {
+            "question":"Equivalent of な",
+            "answer":["な is NA","NA"]
+        },
+        {
+            "question":"Equivalent of に",
+            "answer":["に is NI","NI"]
+        },
+        {
+            "question":"Equivalent of ぬ",
+            "answer":["ぬ is NU","NU"]
+        },
+        {
+            "question":"Equivalent of ね",
+            "answer":["ね is NE","NE"]
+        },
+        {
+            "question":"Equivalent of の",
+            "answer":["の is NO","NO"]
+        },
+        {
+            "question":"Equivalent of は",
+            "answer":["は is HA","HA"]
+        },
+        {
+            "question":"Equivalent of ひ",
+            "answer":["ひ is HI","HI"]
+        },
+        {
+            "question":"Equivalent of ふ",
+            "answer":["ふ is HU/FU","HU","FU"]
+        },
+        {
+            "question":"Equivalent of へ",
+            "answer":["へ is HE","HE"]
+        },
+        {
+            "question":"Equivalent of ほ",
+            "answer":["ほ is HO","HO"]
+        },
+        {
+            "question":"Equivalent of ま",
+            "answer":["ま is MA","MA"]
+        },
+        {
+            "question":"Equivalent of み",
+            "answer":["み is MI","MI"]
+        },
+        {
+            "question":"Equivalent of む",
+            "answer":["む is MU","MU"]
+        },
+        {
+            "question":"Equivalent of め",
+            "answer":["め is ME","ME"]
+        },
+        {
+            "question":"Equivalent of も",
+            "answer":["も is MO","MO"]
+        },
+        {
+            "question":"Equivalent of や",
+            "answer":["や is YA","YA"]
+        },
+        {
+            "question":"Equivalent of ゆ",
+            "answer":["ゆ is YU","YU"]
+        },
+        {
+            "question":"Equivalent of よ",
+            "answer":["よ is YO","YO"]
         }
     ]
 }
