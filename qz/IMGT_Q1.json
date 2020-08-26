@@ -1,0 +1,62 @@
+{
+	"Subj_Name":"IMGT_Q1",
+	"Quiz_Details":"",
+	"Quiz_No":"1",
+	"Quiz_Questions":[
+		{
+			"question":"Is an industry-standard programming language used to insert, retrieve, modify, and delete data in a relational database",
+			"answer":["StructuredQueryLanguage","SQL"]
+		},{
+			"question":"contains statements for defining and administering the objects in a database",
+			"answer":["StructuredQueryLanguage","SQL"]
+		},{
+			"question":"is the language supported by almost all database systems, and is the subject of published industry standards",
+			"answer":["StructuredQueryLanguage","SQL"]
+		},{
+			"question":"developed by E. F. Codd while he was working at the IBM research labs in San Jose in 1971",
+			"answer":["StructuredQueryLanguage","SQL"]
+		},{
+			"question":"This category of sql used to define and manage all the objects in an SQL Server such as databases, tables and view",
+			"answer":["DataDefinitionLanguage","DDL"]
+		},{
+			"question":"True of False<br>CREATE,ALTER,DROP statements are example of DDL",
+			"answer":["True","true","T"]
+		},{
+			"question":"This category of sql is used to SELECT, INSERT, UPDATE and DELETE data in the objects defined by D",
+			"answer":["DataManipulationLanguage","DML"]
+		},{
+			"question":"This category of sql is used for Security commands such as GRANT, REVOKE, and DENY that control how a principal (user or role) can access a securable (object or data.)",
+			"answer":["DataControlLanguage","DCL"]
+		},{
+			"question":"is the language containing the commands used to administer SQL Server, to create and manage all objects in SQL Server, and to insert, retrieve, modify, and delete all data in tables",
+			"answer":["T-SQL","tsql"]
+		},{
+			"question":"True or False<br>Some databases are created automatically when you install SQL Server",
+			"answer":["True","T"]
+		},{
+			"question":"True or False<br>The default system databases should not be deleted because",
+			"answer":["theymaycausefailuretoyourinstanceofSQLServer"]
+		},{
+			"question":"This database keeps the instance of SQL Server functioning and holds the records all the system information for the SQL Server instance",
+			"answer":["Master"]
+		},{
+			"question":"This database contains all information that is global to the server, including logins, error messages, system configuration, and the list of other databases that exist on the server",
+			"answer":["Master"]
+		},{
+			"question":"This database store information about the scheduling of alerts, the definition of jobs, and the recording of the server operators to be contacted when a particular event occurs on the server",
+			"answer":["Msdb"]
+		},{
+			"question":"This database contains all temporarily created stored procedures and tables and is generally used as a work area by SQL Server",
+			"answer":["Tempdb"]
+		},{
+			"question":"This database is where tasks that require memory are performed, such as join and sort operations",
+			"answer":["Tempdb"]
+		},{
+			"question":"This database stores a complete template for creating new databases",
+			"answer":["Model"]
+		},{
+			"question":"When you create a new database, SQL Server copies the whole contents of the Model database into the new database you create",
+			"answer":["Model"]
+		}
+	]
+}

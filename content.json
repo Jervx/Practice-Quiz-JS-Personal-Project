@@ -1,35 +1,13 @@
 {
     "subjects":[
         {
-            "subj_name":"Data Structure & Algorithms 🔥",
-            "quizes_count":"3",
+            "subj_name":"IMGT",
+            "quizes_count":"1",
             "qkey":"sub1",
             "qk":[
                 {
-                    "qname":"Abstract Data Type",
-                    "qlk":"DS_Q1"
-                },{
-                    "qname":"Data Structure",
-                    "qlk":"DS_Q2"
-                },{
-                    "qname":"Array",
-                    "qlk":"DS_Q3"
-                },{
-                    "qname":"Algorithms",
-                    "qlk":"DS_Q4"
-                },{
-                    "qname":"Sorting Schemes",
-                    "qlk":"DS_Q5"
-                }
-            ]
-        },
-        {
-            "subj_name":"Discrete Math  𝜮📊",
-            "qkey":"sub2",
-            "qk":[
-                {   
-                    "qname":"EXAM PRACTICE BITCH",
-                    "qlk":"DSM_Q1"
+                    "qname":"IMGT Quiz 1",
+                    "qlk":"IMGT_Q1"
                 }
             ]
         },{
