@@ -34,8 +34,8 @@
 			"question":"True or False<br>Some databases are created automatically when you install SQL Server",
 			"answer":["True","T"]
 		},{
-			"question":"True or False<br>The default system databases should not be deleted because",
-			"answer":["theymaycausefailuretoyourinstanceofSQLServer"]
+			"question":"True or False<br>The default system databases should not be deleted because they may cause failure to your instance of SQL Server",
+			"answer":["True"]
 		},{
 			"question":"This database keeps the instance of SQL Server functioning and holds the records all the system information for the SQL Server instance",
 			"answer":["Master"]
