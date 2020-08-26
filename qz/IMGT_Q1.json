@@ -22,7 +22,7 @@
 			"question":"True of False<br>CREATE,ALTER,DROP statements are example of DDL",
 			"answer":["True","true","T"]
 		},{
-			"question":"This category of sql is used to SELECT, INSERT, UPDATE and DELETE data in the objects defined by D",
+			"question":"This category of sql is used to SELECT, INSERT, UPDATE and DELETE data in the objects defined by DDL",
 			"answer":["DataManipulationLanguage","DML"]
 		},{
 			"question":"This category of sql is used for Security commands such as GRANT, REVOKE, and DENY that control how a principal (user or role) can access a securable (object or data.)",
