@@ -1,0 +1,32 @@
+{
+	"Subj_Name":"ETHICS_Remember",
+	"Quiz_Details":"",
+	"Quiz_No":"1",
+	"Quiz_Questions":[	
+		{
+			"question":"______ - refer to a set of guidelines which had been put in place in different countries and communities and have been accepted by all",
+			"answer":["Rule","Rules"]
+		},{
+			"question":"A _____ is a prescribed guide for conduct or action",
+			"answer":["Rule","Rules"]
+		},{
+			"question":"________ provide a ense of predictability and consistency for people, thereby promoting physical, moral, social, and emotional safety.",
+			"answer":["Rules","Rule"]
+		},{
+			"question":"At the heart of ethics is a convern about something or someone other than ourselves and our own desires and _____-_______",
+			"answer":["self-interest"]
+		},{
+			"question":"______ are specific sets of norms of behavior, regulations,  and laws established on purpose to regulate the life in the community",
+			"answer":["Rules","Rule"]
+		},{
+			"question":"The availability of rules is a crucial criterion allowing to call nowadaysilized and ____ _____",
+			"answer":["welldeveloped"]
+		},{
+			"question":"_____ are specific modes of behavior that secure a regulated flow of all processes",
+			"answer":["Rules","Rule"]
+		},{
+			"question":"_____ enable to interact, to work together and contribute to global development",
+			"answer":["Norms"]
+		}
+	]
+}

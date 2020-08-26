@@ -11,6 +11,15 @@
                 }
             ]
         },{
+            "subj_name":"Ehics",
+            "qkey":"sub2",
+            "qk":[
+                {
+                    "qname":"Remember",
+                    "qlk":"ethics-remember"
+                }
+            ]
+        },{
             "subj_name":"日本人",
             "qkey":"sub3",
             "qk":[
