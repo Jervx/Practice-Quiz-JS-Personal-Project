@@ -8,6 +8,10 @@
                 {
                     "qname":"IMGT Quiz 1",
                     "qlk":"IMGT_Q1"
+                },
+                {
+                    "qname":"IMGT Quiz 2",
+                    "qlk":"IMGT_Q2"
                 }
             ]
         },{

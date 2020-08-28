@@ -1,0 +1,140 @@
+{
+    "Subj_Name": "IMGT_Q2",
+    "Quiz_Details": "",
+    "Quiz_No": "2",
+    "Quiz_Questions": [
+        {
+			"question":"___________ - manual file is set up to hold all external and internal correspondence relating to a project, product, employee, or client, such files are labeled and stored in cabinets",
+			"answer":["Traditional File-Based","Traditional File Based"]
+		},		{
+			"question":"___________ - for security, cabinets have locks or may be located in secure areas of the building",
+			"answer":["Traditional File-Based","Traditional File Based"]
+		},		{
+			"question":"___________ - collection of application programs that perform services for the end-users such as the production of reports",
+			"answer":["File-Based System","File Based System"]
+		},		{
+			"question":"___________ - an early attempt to computerize the manual filing system",
+			"answer":["File-Based System","File Based System"]
+		},		{
+			"question":"___________ - was developed in response to the needs of industry for more efficient data access",
+			"answer":["File-Based System","File Based System"]
+		},		{
+			"question":"True or False<br>One of the limitation of File Based approach is Separation and isolation of data",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br>One of the limitation of File Based approach is Duplication of data",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br>One of the limitation of File Based approach is Data dependence",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br>One of the limitation of File Based approach is Incompatible file formats",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br>One of the limitation of File Based approach is Fixed queries / proliferation (production or creation) of application programs",
+			"answer":["True"]
+		},		{
+			"question":"It is a shared collection of logically related data, and description of this data, designed to meet the information needs of an organization",
+			"answer":["Database"]
+		},		{
+			"question":"It is a software system that enables users to define, create, maintain, and control access to the database",
+			"answer":["Database Management System","DBMS"]
+		},		{
+			"question":"True or False <br>One of the characteristics of Database approach is Self-describing nature of dbase system",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br>The database contains not only the dbase itself but also a complete definition or description of the dbase structure and constraints.",
+			"answer":["True"]
+		},		{
+			"question":"The definition is stored in the system catalog also called as ____________",
+			"answer":["Meta-Data","Meta Data"]
+		},		{
+			"question":"True or False <br>One of the characteristics of Database approach is that it provides Insulation between programs and data, and data abstraction",
+			"answer":["True"]
+		},		{
+			"question":"The structure of data files is stored in the ____ ______ separately from the access programs (program independence)",
+			"answer":["DBMS catalog"]
+		},		{
+			"question":"True or False<br> In DBMS environment, in adding another piece of data, we don't need to change the description of data in meta-data, no programs are changed.",
+			"answer":["False"]
+		},		{
+			"question":"____________ - characteristic that allows program-data independence and program operation independence.",
+			"answer":["Data Abstraction"]
+		},		{
+			"question":"True or False <br>One of the characteristics of Database approach is It does not Support of multiple views of the data",
+			"answer":["False"]
+		},		{
+			"question":"________ - may be a subset of dbase",
+			"answer":["View"]
+		},		{
+			"question":"True or False <br>One of the characteristics of Database approach is Sharing of data and multiuser transaction processing",
+			"answer":["True"]
+		},		{
+			"question":"True of False<br>Database Must allow multiple users to access the dbase at the same time",
+			"answer":["True"]
+		},		{
+			"question":"_______ - the DBMS must include software to ensure that several users trying to update the same data do so in a controlled manner so that the result of the updates is correct",
+			"answer":["Concurrency Control"]
+		},		{
+			"question":"_______ - DBMS should ensure that each subset or record can be accessed by only one user at a time",
+			"answer":["OLTP","On-Line Transaction Processing","On Line Transaction Processing"]
+		},		{
+			"question":"_______ - administers database environment such as database itself and DBMS and related software.",
+			"answer":["Database Admin","Database Administrators","Database Administrator","DBA"]
+		},		{
+			"question":"_______ - is responsible for authorizing access to the dbase, for coordinating and monitoring its use, and for acquiring software and hardware resources.",
+			"answer":["Database Admin","Database Administrators","Database Administrator","DBA"]
+		},		{
+			"question":"He/She is accountable for problems such as breach of security or poor system response time",
+			"answer":["Database Admin","Database Administrators","Database Administrator","DBA"]
+		},		{
+			"question":"________ - responsible for identifying the data to be stored in the dbase and for choosing appropriate structures to represent and store this data",
+			"answer":["Database Designers","Database Designer"]
+		},		{
+			"question":"________ - people whose jobs require access to the dbase for querying, updating, and generating reports",
+			"answer":["End-users","End users"]
+		},		{
+			"question":"True or False<br> Casual end user is one of the Categories of End-Users",
+			"answer":["True"]
+		},		{
+			"question":"_______ - occasionally access the dbase, but they need different information each time",
+			"answer":["Casual End User"," Casual End-User"]
+		},		{
+			"question":"_______ - make up a sizeable potion of dbase end user",
+			"answer":["Naïve or parametic end users","Naive or Parametic end users"]
+		},		{
+			"question":"_______ - their main job function revolves around constantly querying and updating the dbase",
+			"answer":["Naïve or parametic end users","Naive or Parametic end users"]
+		},		{
+			"question":"True of False<br><br>These are examples of Naïve or parametic end users,Naive or Parametic end users<br>bank tellers, reservation clerks for airlines, hotels and car rentals",
+			"answer":["True"]
+		},		{
+			"question":"_______ - include engineers, scientists, business analysts, and   others who thoroughly familiarize themselves with the facilities of DBMS",
+			"answer":["Sophisticated end users"]
+		},		{
+			"question":"_______ - maintain personal dbases by using ready-made program packages that provide easy-to-use menu- or graphics-based interfaces",
+			"answer":["Stand-alone users","Stand alone users"]
+		},		{
+			"question":"_______ - determine the requirements of end-users and develop specifications for canned transactions (using standard types of queries and updates)",
+			"answer":["System Analyst"]
+		},		{
+			"question":"________ - implement these specifications as programs, then they test, debug, document and maintain the canned transactions",
+			"answer":["Application programmers"]
+		},		{
+			"question":"________ - He pioneered the concept of relational database model in 1970.",
+			"answer":["Dr. Edgar F. Codd"," Dr Edgar F Codd"," Dr. Edgar F Codd"]
+		},		{
+			"question":"When did Dr. Edgar F. Codd published his concept of relational database?",
+			"answer":["June 1970","1970"]
+		},		{
+			"question":"_______ - The first company who implemented the Structured Query Language (SQL) on their research project conducted, known as System R. ",
+			"answer":["IBM"]
+		},		{
+			"question":"_______ - is the standard language to access relational databases and was a ground-breaking invention of Dr. Codd at the IBM Research Labs in 1971",
+			"answer":["SQL"]
+		},		{
+			"question":"True or False<br>Oracle Corporation made it first to market the SQL software in 1979.Well, that SQL product is now the world’s renowned ORACLE Database ",
+			"answer":["True"]
+		}
+    ]
+}
