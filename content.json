@@ -21,6 +21,9 @@
                 {
                     "qname":"Remember",
                     "qlk":"ethics-remember"
+                },{
+                    "qname":"Ehics Q1",
+                    "qlk":"ETHICS_Q1"
                 }
             ]
         },{

@@ -1,0 +1,146 @@
+{
+	"Subj_Name":"ETHICS_Remember",
+	"Quiz_Details":"",
+	"Quiz_No":"2",
+	"Quiz_Questions":[	
+		{
+			"question":"_______ in using your own norms to determine things",
+			"answer":["prejudice"]
+		},		{
+			"question":"_______ un knowing the correct answer",
+			"answer":["Arrogance"]
+		},		{
+			"question":"_______ is the science of all things by their ultimate principles and causes, as know by natural reason alone.",
+			"answer":["Philosophy"]
+		},		{
+			"question":"________ knowledge by means of reason",
+			"answer":["Rationalism"]
+		},		{
+			"question":"True or False<br><br>Man is a rational animal",
+			"answer":["True"]
+		},		{
+			"question":"Ethics or _____ _______",
+			"answer":["Moral Philosophy"]
+		},		{
+			"question":"__________ - may be defined in a provisional way, as the scientific study of moral judgements. (practical science of the morality of the human conduct)",
+			"answer":["Ethics","Moral Philosophy"]
+		},		{
+			"question":"__________ - Fundamental issues of practical decision making.",
+			"answer":["Ethics","Moral Philosophy"]
+		},		{
+			"question":"_______ - Greek word which means custom, habit, character, disposition",
+			"answer":["Ethos"]
+		},		{
+			"question":"True or False<br><br>Morality can be defined as the standards than an indivodual or a group has about what is right and wrong, or good and evil.",
+			"answer":["True"]
+		},		{
+			"question":"True or False<br><br>Morality can be defined in 2 ways, Normative Ethics and Descriptive Ethics.",
+			"answer":["True"]
+		},		{
+			"question":"______ - Actions are judge by their Merits.",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"_______ - How should People Act",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"_______ - If your actions to another person aligned with how you want to be treated, they are moral",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"_______ - Golden Rule",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"________ - try and define how people should act",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"______ - What do people think is Moral?",
+			"answer":["Descriptive Ethics"]
+		},		{
+			"question":"_______ - what make something right or wrong in a specific culture",
+			"answer":["Descriptive Ethics"]
+		},		{
+			"question":"_______ - Defines morals in terms of their cultural or personal significance",
+			"answer":["Discriptive Ethics"]
+		},		{
+			"question":"_______ - Does not actually claims that things are right or wrong, but simply studies how individuals or societies define their morals",
+			"answer":["Discriptive Ethics"]
+		},		{
+			"question":"_______ - adjective which comes from "norm"",
+			"answer":["Normative"]
+		},		{
+			"question":"Desciptive Ethics is also known as ________ ____",
+			"answer":["Comparative Ethics"]
+		},		{
+			"question":"_______ - means standard, or rule, or principle, as opposed to which is "normal" for people to do, that is, what they actually do",
+			"answer":["Norm"]
+		},		{
+			"question":"True or False<br><br> The rules of mathematics are normative because reasoning can be assessed against these rules and judge correct or incorrect,irrespective of wether this usage is the normal usage.",
+			"answer":["True"]
+		},		{
+			"question":"_______ - how they ought to think",
+			"answer":["Normative","Normative Ethics"]
+		},		{
+			"question":"________ - is concerned with moral norms",
+			"answer":["Normative","Normative Ethics"]
+		},		{
+			"question":"A _____ norm is a norm in the sense of being a standard with moral agents ought to comply",
+			"answer":["Moral"]
+		},		{
+			"question":"True or False<br><br>Thou Shall Not Murder is an example of a moral norm",
+			"answer":["True"]
+		},		{
+			"question":"______ - to guide our actions",
+			"answer":["Moral Norm"]
+		},		{
+			"question":"True or Flase<br><br>The 2 concept of Normative Ethics are The Right and Morally good",
+			"answer":["True"]
+		},		{
+			"question":"True or Flase<br><br> The concept of the right is - The concept of Duty",
+			"answer":["True"]
+		},		{
+			"question":"True or Flase<br><br> The concept of the right is - the concept we ought  to perform which it would be wrong not to perform.",
+			"answer":["True"]
+		},		{
+			"question":"The concept of Morally Good, a target of the ______ __ ____ or axiology.",
+			"answer":["Theory of Value"]
+		},		{
+			"question":"Greek Word axios means _____",
+			"answer":["worth"]
+		},		{
+			"question":"Greek word logos means _____ ",
+			"answer":["study of"]
+		},		{
+			"question":"Refers to morally good properties of human beings",
+			"answer":["Morally Good","Theory of value","The Morally Good"]
+		},		{
+			"question":"_____ ____ is interested in both: It study that aims to determine which actions are right and which states of character are morally good",
+			"answer":["Normative Ethics"]
+		},		{
+			"question":"Which actions fall into the category of the right and the category of the wrong, this is called _____ ____ __ _____ _____",
+			"answer":["the theory of right action","theory of right action"]
+		},		{
+			"question":"_____ ____ __ _____ _____ is an investigation and an attempt to answer the question <br>: what ought I do? <br>: what is the right thing to do? :",
+			"answer":["the theory of right action","theory of right action"]
+		},		{
+			"question":"True or Flase<br><br> other important normative concepts relating to action include obligatory,forbidden,permissible,required",
+			"answer":["True"]
+		},		{
+			"question":"What sort of person ought I Be? This is called the theory of _____",
+			"answer":["virtue","virtue Ethics"]
+		},		{
+			"question":"_______ is  a morally desirable state of characters such as courage",
+			"answer":["virtue"]
+		},		{
+			"question":"True or False<br><br>Theory of Virtue is directed not at what action one ought to do, but what person one should be.",
+			"answer":["True"]
+		},		{
+			"question":"______ - aims to answer the question of 'what makes actions right or wrong'",
+			"answer":["Normative Theory"]
+		},		{
+			"question":"_______ -   right actions are those that maximize happiness",
+			"answer":["utilitarianism"]
+		},		{
+			"question":"_______ - right actions are derived as duties.",
+			"answer":["Kantianism"]
+		}
+	]
+}
