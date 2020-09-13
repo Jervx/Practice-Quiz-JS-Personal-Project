@@ -1,0 +1,161 @@
+{
+	"Subj_Name":"Object Oriented Programming",
+	"Quiz_Details":"",
+	"Quiz_No":"1",
+	"Quiz_Questions":[	
+        {
+			"question":"______ - A component of a program that knows how to perform certain actions and how to interact with other elements of a program",
+			"answer":["object","objects"]
+		},		{
+			"question":"______ - are the basic units of object-oriented programming",
+			"answer":["Objects","Objects"]
+		},		{
+			"question":"______ - represents the data of an object",
+			"answer":["state"]
+		},		{
+			"question":"______ - Represents the behavior of an object such as deposit, withdraw etc.",
+			"answer":["behavior"]
+		},		{
+			"question":"_______ - it is used internally by the JVM to identify each object uniquely.",
+			"answer":["Identity"]
+		},		{
+			"question":"________ - When One Object acquires all the properties and behaviors of a parent Object",
+			"answer":["Inheritance"]
+		},		{
+			"question":"_______ - it provides code reusability. It is used to achieve runtime polymorphism",
+			"answer":["Inheritance"]
+		},		{
+			"question":"Super Class or Base class is also known as _____",
+			"answer":["Parent Class"]
+		},		{
+			"question":"Subclass or Derived Class is also known as ______",
+			"answer":["Child Class"]
+		},		{
+			"question":"True or False<br><br>polymorphism means Taking many forms",
+			"answer":["True"]
+		},		{
+			"question":"____ - It is the ability of a variable, function or object to take on multiple forms.",
+			"answer":["polymorphism"]
+		},		{
+			"question":"True or False<br><br> polymorphism allow you define one interface or method and have multiple implementations.",
+			"answer":["True"]
+		},		{
+			"question":"_______ - A mechanism where you bind your data and code together as a single units",
+			"answer":["Encapsulation"]
+		},		{
+			"question":"_________ - refers to the quality of dealing with ideas rather than events",
+			"answer":["Abstraction"]
+		},		{
+			"question":"______ - it also means to hide your data in order to make it safe from any modification",
+			"answer":["Abstraction"]
+		},		{
+			"question":"True or False<br><br> Java was originally designed for interactive television",
+			"answer":["True","t"]
+		},		{
+			"question":"Java team members (also known as ______ ____)",
+			"answer":["Green Team"]
+		},		{
+			"question":"Later, Java technology was incorporated by _______.",
+			"answer":["Netscape"]
+		},		{
+			"question":"______ ______,Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. The small team of sun engineers called Green Team.",
+			"answer":["James Gosling"]
+		},		{
+			"question":"Firstly, it was called '________' by James Gosling, and file extension was .gt.",
+			"answer":["Greentalk"]
+		},		{
+			"question":"fter that, it was called ___ and was developed as a part of the Green project.",
+			"answer":["Oak"]
+		},		{
+			"question":"True or False<br><br>Oak is a symbol of strength and chosen as a national tree of many countries like U.S.A., France, Germany, Romania, etc.",
+			"answer":["True"]
+		},		{
+			"question":"In ____, Oak was renamed as 'Java' because it was already a trademark by Oak Technologies.",
+			"answer":["1995"]
+		},		{
+			"question":"True or Flase<br><br>Java is an island of Indonesia where first coffee was produced (called java coffee).",
+			"answer":["True"]
+		},		{
+			"question":"Initially developed by James Gosling at Sun Microsystems (which is now a subsidiary of Oracle Corporation) and released in ____.",
+			"answer":["1995"]
+		},		{
+			"question":"DK 1.0 released in _____ ___ ____",
+			"answer":["January 23 1996","1996"]
+		},		{
+			"question":"The Java _______-_____ applications are the programs written in Java to carry out certain tasks. These applications run directly by the Java interpreter. ",
+			"answer":["stand-alone","stand alone"]
+		},		{
+			"question":"True or Flase<br><br>A standalone application should be delivered and installed on each computer before it is run. It can have either a Command-Line Interface (CLI) or Graphical User Interface (GUI). ",
+			"answer":["True","T"]
+		},		{
+			"question":"An ______ is a small Java program that is embedded in an HTML page and is executed by using a Java-enabled web browser(E.g. Netscape and Hot Java) or a tool such as an applet viewer. ",
+			"answer":["applet"]
+		},		{
+			"question":"Java _______ provide web developers with a simple, consistent mechanism for extending the functionality of a web server and provide dynamic behavior for web applications. ",
+			"answer":["servlets","servlet"]
+		},		{
+			"question":"_________ - specifies one or more actions to be performed during the execution of a program",
+			"answer":["Statement","Statements"]
+		},		{
+			"question":"A ______ is formed by enclosing statements by curly braces",
+			"answer":["Block"]
+		},		{
+			"question":"______ - can be nested indefinitely.",
+			"answer":["Block Statements"]
+		},		{
+			"question":"________ - Is an optional statement used to describe what a program or a line of program is doing",
+			"answer":["Comment"]
+		},		{
+			"question":"______ - used to label variables, methods, classes, etc",
+			"answer":["Identifiers"]
+		},		{
+			"question":"______ - are the representation of values",
+			"answer":["Literals"]
+		},		{
+			"question":"_______ - are used to represent specific integer values",
+			"answer":["Integer Literals","Integer","Integers"]
+		},		{
+			"question":"_______ - can be expressed in three different bases",
+			"answer":["Integer Literals","Integer","Integers"]
+		},		{
+			"question":"_______ - appears in several forms, typical form makes use of digits and a decimal point",
+			"answer":["Floating-Point Literal"]
+		},		{
+			"question":"_______ - only two Boolean literals exist: true and false, representing the Boolean concepts of true and false, respectively",
+			"answer":["Boolean Literal"]
+		},		{
+			"question":"_______ - sequence of characters within double quotes, the characters can be escape sequences",
+			"answer":["String Literal"]
+		},		{
+			"question":"_______ - come in two forms which both use the single quote as a delimiter Its first form places the literal character between single quotes",
+			"answer":["Character Literal"]
+		},		{
+			"question":"_____ - built-in or primitive Java data type",
+			"answer":["Simple"]
+		},		{
+			"question":"______ - created by the programmer using simple types, arrays, classes, and interfaces",
+			"answer":["Composite"]
+		},		{
+			"question":"______ - one-bit wide and takes on the values true or false : default value: false cannot be cast to a number or any other type",
+			"answer":["Boolean Data type"]
+		},		{
+			"question":"represents a 16-bit Unicode character • must have its literal enclosed in single quotes • uses the following notations:",
+			"answer":["Char Data Type"]
+		},		{
+			"question":"______ - is an item of data used to store the state of objects",
+			"answer":["Variable"]
+		},		{
+			"question":"_______ - variables with primitive data types•stores data in the actual memory location where the variable is",
+			"answer":["Primitive Variables"]
+		},		{
+			"question":"_______ - •variables that stores the address in the memory location•points to another memory location where the actual data is",
+			"answer":["Reference Variables"]
+		},		{
+			"question":"_______ - its value never changes • uses the final type modifier in class definition",
+			"answer":["Constants"]
+		},		{
+			"question":"________ - are special symbols that perform specific operations on one, two, or three operands, and then return a result",
+			"answer":["Operators"]
+		}
+	]
+}

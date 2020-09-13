@@ -27,6 +27,15 @@
                 }
             ]
         },{
+            "subj_name":"OOPR",
+            "qkey":"sub2",
+            "qk":[
+                {
+                    "qname":"OOPR Q1",
+                    "qlk":"OOPR_Q1"
+                }
+            ]
+        },{
             "subj_name":"日本人",
             "qkey":"sub3",
             "qk":[
