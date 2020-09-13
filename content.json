@@ -25,6 +25,10 @@
                     "qname":"Ehics Q1",
                     "qlk":"ETHICS_Q1"
                 }
+                ,{
+                    "qname":"Ehics Q2",
+                    "qlk":"ETHICS_Q2"
+                }
             ]
         },{
             "subj_name":"OOPR",

@@ -1,0 +1,83 @@
+{
+	"Subj_Name":"ETHICS_Remember",
+	"Quiz_Details":"",
+	"Quiz_No":"2",
+	"Quiz_Questions":[	
+        {
+			"question":"A Conflict  in which you have to choose between two or more actions and have moral reasons for choosing each action.",
+			"answer":["Moral Dilema"]
+		},		{
+			"question":"What is common to the two well-known cases is ______.",
+			"answer":["conflict"]
+		},		{
+			"question":"True or False<br><br>In each case, an agent regards herself as having moral decisions to do each of two actions, but doing both actions is not possible. ",
+			"answer":["True"]
+		},		{
+			"question":"_______ have called situations like these moral dilemmas. ",
+			"answer":["Ethicists","Ethicist"]
+		},		{
+			"question":"Level 1: ________ - _______ ______",
+			"answer":["Pre-Conventional Level"]
+		},		{
+			"question":"Stage 1:_______..",
+			"answer":["Punishment/obedience orientation","Punishment","obedience orientation"]
+		},		{
+			"question":"________ - Behavior is determined by consequences. The individual will obey in order to avoid punishment.",
+			"answer":["Punishment/obedience orientation","Punishment","obedience orientation"]
+		},		{
+			"question":"Stage 2: _____....",
+			"answer":["Instrumental purpose orientation"]
+		},		{
+			"question":"________ - Behavior is determined again by consequences. The individual focuses on receiving rewards or satisfying personal needs. ",
+			"answer":["Instrumental purpose orientation"]
+		},		{
+			"question":"Level 2:_______ ...",
+			"answer":["Conventional Level"]
+		},		{
+			"question":"Stage 3:________ ...",
+			"answer":["Good Boy/Nice Girl Orientation"]
+		},		{
+			"question":"______ - Behavior is determined by social approval. The individual wants to maintain or win the affection and approval of others by being a good person.",
+			"answer":["Good Boy/Nice Girl Orientation"]
+		},		{
+			"question":"Stage 4: ______...",
+			"answer":["Law and Order Orientation"]
+		},		{
+			"question":"______ - Social rules and laws determine behavior. The individual now takes into consideration a larger perspective, that of societal laws. ",
+			"answer":["Law and Order Orientation"]
+		},		{
+			"question":"______ - Moral decision making becomes more than consideration of close ties to others. The individual believes that rules and laws maintain social order that is worth preserving. ",
+			"answer":["Law and Order Orientation"]
+		},		{
+			"question":"Level 3:____...",
+			"answer":["Post Conventional or Principled Level","Post Conventional","Principled Level"]
+		},		{
+			"question":"Stage 5: _____ ...",
+			"answer":["Social Contract Orientation"]
+		},		{
+			"question":"_________ - Individual rights determine behavior. The individual views laws and rules as flexible tools for improving human purposes.That is, given the right, there are exceptions to rules. When laws are not consistent with individual rights and the interest of the majority",
+			"answer":["Social Contract Orientation"]
+		},		{
+			"question":"_________ - That is, given the right, there are exceptions to rules. When laws are not consistent with individual rights and the interest of the majority",
+			"answer":["Social Contract Orientation"]
+		},		{
+			"question":"_______ - The highest stage of functioning. However, some individuals will never reach this level. At this stage, the appropriate action is determined by one’s self-chosen ethical principles of conscience. ",
+			"answer":["Universal Ethical Principle Orientation"]
+		},		{
+			"question":"_______ - These principles are abstract and universal in application.",
+			"answer":["Universal Ethical Principle Orientation"]
+		},		{
+			"question":"_______ - This type of reasoning involves taking the perspective of every person or group that could potentially be affected by the decision.",
+			"answer":["Universal Ethical Principle Orientation"]
+		},		{
+			"question":"________ - Only the motive of duty, acting according to the law I give myself confers moral worth to an action. Any other motive, while possibly commendable, cannot give an action moral worth. ",
+			"answer":["Duty vs. Inclination"]
+		},		{
+			"question":"________ - I am only free when my will is determined autonomously, governed by the law I give myself. Being part of nature, I am not exempt from its laws and I’m inclined or compelled to act according those laws (act heteronomously).",
+			"answer":["Autonomy vs. heteronomy"]
+		},		{
+			"question":"________ - My capacity for reason opens another possibility, that of acting according to laws other than the laws of nature: the laws I give myself. This reason, “pure practical reason”, legislates a priori– regardless of all empirical ends.",
+			"answer":["Autonomy vs. heteronomy"]
+		}
+	]
+}

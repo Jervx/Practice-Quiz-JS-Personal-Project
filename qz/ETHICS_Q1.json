@@ -129,7 +129,7 @@
 		},		{
 			"question":"_______ is  a morally desirable state of characters such as courage",
 			"answer":["virtue"]
-		},		{d
+		},		{
 			"question":"True or False<br><br>Theory of Virtue is directed not at what action one ought to do, but what person one should be.",
 			"answer":["True"]
 		},		{
@@ -141,6 +141,9 @@
 		},		{
 			"question":"_______ - right actions are derived as duties.",
 			"answer":["Kantianism"]
+		},		{
+			"question":"_____ - is concerned with other people’s interest, with the interest of the society, with God’s interest, with “ultimate goods”, and so on.",
+			"answer":["Ethics"]
 		}
 	]
 }
