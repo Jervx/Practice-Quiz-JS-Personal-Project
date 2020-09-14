@@ -32,7 +32,7 @@
             ]
         },{
             "subj_name":"OOPR",
-            "qkey":"sub2",
+            "qkey":"sub3",
             "qk":[
                 {
                     "qname":"OOPR Q1",
@@ -41,7 +41,7 @@
             ]
         },{
             "subj_name":"日本人",
-            "qkey":"sub3",
+            "qkey":"sub4",
             "qk":[
                 {
                     "qname":"Hiragana",
