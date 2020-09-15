@@ -1,0 +1,89 @@
+{
+	"Quiz_Questions":[	
+        {
+			"question":"Linux began in ____ as a personal project by Finnish student Linus Torvalds",
+			"answer":["1991"]
+		},		{
+			"question":"initial release of its source code in ____",
+			"answer":["1991"]
+		},		{
+			"question":"4.15 version in 2018 with more than ____ million lines of source code, not counting comments, under the GNU General Public License v2.",
+			"answer":["23.3"]
+		},		{
+			"question":"_______ - He is a Finnish-American software engineer who is the creator and, historically, the principal developer of the Linux kernel, which is the kernel for Linux operating systems (distributions) and other operating systems such as Android and Chrome OS.",
+			"answer":["Linus Benedict Torvalds","Linus Torvalds"]
+		},		{
+			"question":"A secure, open source server operating system designed to tackle mission-critical workloads. ",
+			"answer":["SUSE Linux Enterprise Server","SLES"]
+		},		{
+			"question":"is a computer operating system developed by SUSE. It is built on top of the free and open source Linux kernel and is distributed with system and application software from other open source projects.",
+			"answer":["SUSE LINUX"," SUSE"]
+		},		{
+			"question":"'Software und System-Entwicklung' in english",
+			"answer":["software and systems development"]
+		},		{
+			"question":"SUSE first version appeared in early _______",
+			"answer":["1994"]
+		},		{
+			"question":"SUSE is known for its ___ configuration tool",
+			"answer":["YaST"]
+		},		{
+			"question":"Novell bought the SUSE (then 'SuSE') brands and trademarks in what year?",
+			"answer":["2003"]
+		},		{
+			"question":"True or False SUSE founded on 2 September 1992 in Nuremberg, Germany, by Roland Dyroff, Thomas Fehr, Burchard Steinbild, and Hubert Mantel.",
+			"answer":["True"]
+		},		{
+			"question":"The official logo and current mascot of the distribution is a veiled chameleon officially named ____",
+			"answer":["GEEKO"]
+		},		{
+			"question":"A Malaysian term a type of lizard",
+			"answer":["SUSE"]
+		},		{
+			"question":"True or False<br><br>On 4 August 2005, Novell announced that the SUSE Professional series would become more open, with the launch of the openSUSE Project community.",
+			"answer":["True","T"]
+		},		{
+			"question":"True or False <br><br>On 3 November 2006 (renewed 25 July 2011), Novell signed an agreement with Microsoft covering improvement of SUSE's ability to interoperate with Microsoft Windows, cross-promotion/marketing of both products and patent cross-licensing.",
+			"answer":["True","T"]
+		},		{
+			"question":"Is computer software distributed under terms that allow users to run the software for any purpose as well as to study, change, and distribute it and any adapted versions.",
+			"answer":["Free Software or Libre Software"," Free Software","Libre Software"]
+		},		{
+			"question":"_______ ______ define how a computer stores files, switches between different applications, manages memory, keeps itself secure, and interacts with peripherals like printers and cameras.",
+			"answer":["Operating systems"]
+		},		{
+			"question":"What does SLED stands for?",
+			"answer":["SUSE LINUX Enterprise Desktop"]
+		},		{
+			"question":"What does GNOME stands for?",
+			"answer":["GNU Network Object Model Environment"]
+		},		{
+			"question":"What does GUI stands for?",
+			"answer":["Graphical User Interface"]
+		},		{
+			"question":"Is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicator such as primary notation, instead of text-based user interfaces, typed command labels or text navigation.",
+			"answer":["GUI","Graphical User Interface"]
+		},		{
+			"question":"is a free and open-source, monolithic, Unix-like operating system kernel",
+			"answer":["Linux Kernel"]
+		},		{
+			"question":"deployed on a wide variety of computing systems, from personal computers, mobile devices, mainframes, and supercomputer to embedded devices, such as routers, wireless access points, private branch exchanges, set-top boxes, FTA receivers, smart TVs, personal video recorders, and NAS appliances.",
+			"answer":["Linux Kernel"]
+		},		{
+			"question":"Are released under an open-source license as part of the open-source-software movement.",
+			"answer":["open-source software","open-source products","open source software","open source products"]
+		},		{
+			"question":"Include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model.",
+			"answer":["Open source products","Open-source products"]
+		},		{
+			"question":"What does YaST stands for?",
+			"answer":["Yet Another Setup tool"]
+		},		{
+			"question":"Is a Linux operating system setup and configuration tool.",
+			"answer":["Yast","Yet Another Setup tool"]
+		},		{
+			"question":"True or False <br><br>YaST was released first in April 1995",
+			"answer":["True","T"]
+		}
+    ]
+}

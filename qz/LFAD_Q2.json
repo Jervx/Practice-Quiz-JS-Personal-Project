@@ -1,0 +1,95 @@
+{
+	"Quiz_Questions":[	
+        {
+			"question":"This Command shows all contents in the current directory",
+			"answer":["ls"]
+		},		{
+			"question":"This Command means List Directory contents",
+			"answer":["ls"]
+		},		{
+			"question":"This command is used to show the Current Directory",
+			"answer":["PWD"]
+		},		{
+			"question":"What does PWD stands for?",
+			"answer":["Print Working Directory"]
+		},		{
+			"question":"This Command is used to change Directory",
+			"answer":["cd"]
+		},		{
+			"question":"It is used for deleting files or directories",
+			"answer":["rm"]
+		},		{
+			"question":"This command will clear the terminal screen",
+			"answer":["clear"]
+		},		{
+			"question":"This command will move your files or directories to somewhere else",
+			"answer":["mv "]
+		},		{
+			"question":"This command is used for creation of new directories",
+			"answer":["mkdir"]
+		},		{
+			"question":"This command is used to copy files or directories",
+			"answer":["cp"]
+		},		{
+			"question":"This command is used for switching to superuser",
+			"answer":["su"]
+		},		{
+			"question":"Command use for shuts down the running system",
+			"answer":["poweroff"]
+		},		{
+			"question":"Command use for a reset of your system",
+			"answer":["reboot"]
+		},		{
+			"question":"Is an essential part of any Linux system",
+			"answer":["Man Pages"," Man"]
+		},		{
+			"question":"True or False<br><br>Several parts of Man pages are : NAME,SYNOPSIS,DESCRIPTION,EXAMPLES,SEE ALSO",
+			"answer":["True"]
+		},		{
+			"question":"_____ - name of the command or function, followed by a one-line description of what it does",
+			"answer":["NAME"]
+		},		{
+			"question":"_____ - a command, a formal description of how to run it and what command line options it takes.",
+			"answer":["SYNOPSIS"]
+		},		{
+			"question":"______ - A textual description of the functioning of the command or function.",
+			"answer":["DESCRIPTION"]
+		},		{
+			"question":"______ - Some examples of common usage.",
+			"answer":["EXAMPLES"]
+		},		{
+			"question":"____ ____ - A list of related commands or functions.",
+			"answer":["SEE ALSO"]
+		},		{
+			"question":"It is more detailed than man pages : more detailed than man pages : pages that can be read with an info reader, which works much like a web browser.",
+			"answer":["Info Pages"," Info"]
+		},		{
+			"question":"What is the command to view the infor pages?",
+			"answer":["Info"]
+		},		{
+			"question":"It provides a high-level overview of features, capabilities, and limitations of SUSE Linux.",
+			"answer":["Access Release Notes"]
+		},      {
+			"question":"Is that part of a filename that is found after the final '.'",
+			"answer":["extension"]
+		},		{
+			"question":"are used to indicate the  type.",
+			"answer":["extension"]
+		},		{
+			"question":"Is the string of directories and sub-directories you would have to navigate  through in order to reach a given location in the le system.",
+			"answer":["Path"]
+		},		{
+			"question":"Means to be logged in using the root account. This can be  done from the main login screen, a shell prompt, or any application that requires  your root password.",
+			"answer":["Root Access"]
+		},		{
+			"question":"Means that the user has permission to do  anything on the system, so use root access with care.",
+			"answer":["Root Access"]
+		},		{
+			"question":"Is the top-most directory of the le system. All other les and  directories exist in this directory or one of its sub-directories.",
+			"answer":["root directory"]
+		},		{
+			"question":"",
+			"answer":["x"]
+		}
+    ]
+}

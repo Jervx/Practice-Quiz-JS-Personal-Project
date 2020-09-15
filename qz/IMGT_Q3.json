@@ -1,0 +1,41 @@
+{
+    "Quiz_Questions": [
+        {
+			"question":"ERD stands for?",
+			"answer":["Entity Relationship Diagram"]
+		},		{
+			"question":"Is modeling tool used to depict graphically a database design before it is actually implemented.",
+			"answer":["Entity Relationship Diagram","ERD"]
+		},		{
+			"question":"True or False<br><br>ERD has three basic components, namely, an Entity, Relationship and an Attribute.",
+			"answer":["True","T"]
+		},		{
+			"question":"is a real-world object distinguishable or unique from other objects. ",
+			"answer":["Entity"]
+		},		{
+			"question":"An entity can be a concrete or physical object like employee, student, faculty, customer etc. Or it could also be conceptual or abstract like transaction, order, course, subjects etc",
+			"answer":["Entity"]
+		},		{
+			"question":"It can be thought of as a noun like student, employee etc.► It is normally represented by a rectangle shape.",
+			"answer":["Entity"]
+		},		{
+			"question":"Is a way of relating one entity to another. Entities can therefore participate in a relationship.",
+			"answer":["Relationship"]
+		},		{
+			"question":"It is commonly thought as a verb connecting the entities or nouns",
+			"answer":["Relationship"]
+		},		{
+			"question":"It is normally represented by a diamond shape",
+			"answer":["Relationship"]
+		},		{
+			"question":"True or False<br><br> Types of Relationship are ►One-to-One : ►One-to-Many : ►Many-to-Many",
+			"answer":["True"]
+		},		{
+			"question":"Refers to the characteristic or basic fact or field of an Entity or Relationship.",
+			"answer":["Attribute"]
+		},		{
+			"question":"It is normally represented by a circle.",
+			"answer":["Attribute"]
+		}
+    ]
+}

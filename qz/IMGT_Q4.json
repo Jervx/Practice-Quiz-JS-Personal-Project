@@ -1,0 +1,155 @@
+{
+    "Quiz_Questions": [
+        {
+			"question":"Are database objects that stores data in a collection of rows and columns",
+			"answer":["Table","Tables"]
+		},		{
+			"question":"A ____ _____ is a collection of columns.",
+			"answer":["Table collection"]
+		},		{
+			"question":"True or False<br><br>First character must be a letter or an underscore ( _ )",
+			"answer":["True","T "]
+		},		{
+			"question":"True or False<br><br>Subsequent characters can be letters, digits, @, $, #, _",
+			"answer":["True","T"]
+		},		{
+			"question":"Max Column name length is up to ____",
+			"answer":["128"]
+		},		{
+			"question":"Is an attribute that specifies the type of data that the column can store",
+			"answer":["Data type"," Data Types"]
+		},		{
+			"question":"Consists of any combination of letters, symbols, and numeric characters. ",
+			"answer":["Character data"]
+		},		{
+			"question":"______ - Fixed-length non-Unicode character data with length of n bytes. n must be a value from 1 through 256.",
+			"answer":["char[(n)]","char(n)"]
+		},		{
+			"question":"______ - Fixed-length Unicode character data with length of n bytes. n must be a value from 1 through 65,536. SQL Server allocates double the space internally for this type.",
+			"answer":["nchar[(n)]","nchar(n)"]
+		},		{
+			"question":"_______ - Variable-length non-Unicode character data with length from 1 through 8,000. If no column size define - that is, varchar(), the length will default to 1 can use another setting that can exceed the 8,000-character limit, by defining the data typewith the constant max",
+			"answer":["varchar[(n)]","varchar(n)"]
+		},		{
+			"question":"________ - The nvarchar type is defined in a similar way to varchar, except it uses Unicode and therefore doublesthe amount of space required to store the data",
+			"answer":["nvarchar[(n)]","nvarchar(n)"]
+		},		{
+			"question":"True or False<br><br>Date and time data consists of valid date or time combinations",
+			"answer":["True","T"]
+		},		{
+			"question":"Hold a date from January 1, AD 1 through December 31, 9999. Theformat is YYYY-MM-DD.",
+			"answer":["Date"]
+		},		{
+			"question":"Date and time data from January 1, 1753 through December 31, 9999, to an accuracy of 0.00333 second, storage is 4 bytes",
+			"answer":["datetime"]
+		},		{
+			"question":"Date and time data from January 1, AD 1 through December 31, 9999,  to an accuracy of 100 nanosecs , storage is 6-8 bytes",
+			"answer":["datetime2"]
+		},		{
+			"question":"Date and time data from January 1, 1900, through June 6, 2079, with accuracy to the minute, storage is 4 bytes.",
+			"answer":["smalldatetime"]
+		},		{
+			"question":"store a time relative to a specific date and time zone. If you want to store 6 p.m. on March 24, 2008 in US Eastern Standard Time, thevalue would be stored as 2008-03-24 13:00:00 +05:00",
+			"answer":["datetimeoffset"]
+		},		{
+			"question":"hold a time based on the 24-hour clock.  Format is hh:mm:ss[.nnnnnnn].",
+			"answer":["time"]
+		},		{
+			"question":"______ _____ - consists of numbers only. Numeric data includes positive and negative numbers, decimal and fractional numbers, and whole numbers (integers).",
+			"answer":["Numeric data "]
+		},		{
+			"question":"______ ____ - consists of negative or positive whole numbers, such as -15, 0, 5, and 2509.",
+			"answer":["Integer Data"]
+		},		{
+			"question":"Integer (whole number) data from -2^63 (-9223372036854775808) through 2^63-1 (9223372036854775807). Storage size is 8 bytes.",
+			"answer":["bigint"]
+		},		{
+			"question":"Integer (whole number) data from -2^31 (-2,147,483,648) through 2^31 - 1 (2,147,483,647). Storage size is 4 bytes.",
+			"answer":["int"]
+		},		{
+			"question":"Integer data from -2^15 (-32,768) through 2^15 - 1 (32,767). Storage size is 2 bytes.",
+			"answer":["smallint"]
+		},		{
+			"question":"Integer data from 0 through 255. Storage size is 1 byte.",
+			"answer":["tinyint"]
+		},		{
+			"question":"This can contain only a 1 or a 0 as a value (or null, which is no value). It’s useful as a status bit - on/off, yes/no, or true/false, for example",
+			"answer":["bit"]
+		},		{
+			"question":"Consists of data that is stored to the least significant digit",
+			"answer":["Decimal Data"]
+		},		{
+			"question":"The number of digits in a numeric column.",
+			"answer":["Precision"]
+		},		{
+			"question":"The number of digits to the right of a decimal point in a numeric column.",
+			"answer":["Scale"]
+		},		{
+			"question":"hold verylarge numbers in the range of –1.79E+308 through 1.79E+308",
+			"answer":["float"]
+		},		{
+			"question":"Can store only numbers in the range of –3.40E+38 through 3.40E+38",
+			"answer":["real"]
+		},		{
+			"question":"Represents positive or negative amounts of money",
+			"answer":["Monetary data"]
+		},		{
+			"question":"data type to store values in the range from - 922,337,203,685,477.5808 through +922,337,203,685,477.5",
+			"answer":["money"]
+		},		{
+			"question":"data type to store values in the range from --214,748.3648 through 214,748.3647",
+			"answer":["Smallmoney"]
+		},		{
+			"question":"is not the same as zero (0), blank, or a zero-length character string such as “”",
+			"answer":["NULL","Null Value"]
+		},		{
+			"question":"means that no entry has been made.",
+			"answer":["Null"]
+		},		{
+			"question":"use to create a column that contains system-generated sequential values to identify each row inserted into a table",
+			"answer":["IDENTITY Column"]
+		},		{
+			"question":"This value is based on a seed value and an increment value",
+			"answer":["IDENTITY Column"]
+		},		{
+			"question":"True or False<br><br>There can only be one identity column per table : NULL values are not allowed : It can be used with the following datatype: tinyint, smallint, int, bigint or numeric/decimal with a scale of zero ",
+			"answer":["True","T"]
+		},		{
+			"question":"Column or set of columns that uniquely identify each row in a table : It does not allow null values",
+			"answer":["PRIMARY KEY"]
+		},		{
+			"question":"Column or set of columns whose values match the primary key (PK) in the same or another table",
+			"answer":["FOREIGN KEY"]
+		},		{
+			"question":"Should be meaningful so as to describe the column content.",
+			"answer":["Column Name"]
+		},		{
+			"question":"Any one of 25 possible definitions provides the basis for the data a column will contain.",
+			"answer":["Data Type"]
+		},		{
+			"question":"For many of the data types, the length is predetermined. Specify a length for character, binary and variable-length data",
+			"answer":["Length"]
+		},		{
+			"question":"You can provide an indicator for allowing NULLcontent for any variabl",
+			"answer":["Allow Nulls"]
+		},		{
+			"question":"Enforces unique content for a column and can be used to relate other tables. Must contain a unique non-NULL value",
+			"answer":["Primary Key"]
+		},		{
+			"question":"Provides an explanation of the column for documentationpurposes.",
+			"answer":["Description"]
+		},		{
+			"question":"Provides a value for a column when one is not explicitly given during data entry.",
+			"answer":["Default Value"]
+		},		{
+			"question":"Inserts a value automatically into a column, based on seed and increment definitions.",
+			"answer":["Identity"]
+		},		{
+			"question":"Provides the starting value for an Identity column.",
+			"answer":["Identity Seed"]
+		},		{
+			"question":"Defines how an Identity will increase or decrease with each new row added to a table",
+			"answer":["Identity Increment"]
+		}
+    ]
+}

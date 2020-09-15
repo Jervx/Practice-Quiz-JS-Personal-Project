@@ -6,12 +6,19 @@
             "qkey":"sub1",
             "qk":[
                 {
-                    "qname":"IMGT Quiz 1",
+                    "qname":"Q1 - 18 Questions",
                     "qlk":"IMGT_Q1"
                 },
                 {
-                    "qname":"IMGT Quiz 2",
+                    "qname":"Q2 - 44 Questions",
                     "qlk":"IMGT_Q2"
+                },{
+                    "qname":"Q3 - 12 Questions",
+                    "qlk":"IMGT_Q3"
+                },
+                {
+                    "qname":"Q4 - 50 Questions",
+                    "qlk":"IMGT_Q4"
                 }
             ]
         },{
@@ -19,14 +26,14 @@
             "qkey":"sub2",
             "qk":[
                 {
-                    "qname":"Remember",
+                    "qname":"Remember - 8 Questions",
                     "qlk":"ethics-remember"
                 },{
-                    "qname":"Ehics Q1",
+                    "qname":"Q1 - 47 Questions",
                     "qlk":"ETHICS_Q1"
                 }
                 ,{
-                    "qname":"Ehics Q2",
+                    "qname":"Q2 - 25 Questions",
                     "qlk":"ETHICS_Q2"
                 }
             ]
@@ -35,16 +42,29 @@
             "qkey":"sub3",
             "qk":[
                 {
-                    "qname":"OOPR Q1",
+                    "qname":"Q1 - 51 Questions",
                     "qlk":"OOPR_Q1"
                 }
             ]
         },{
-            "subj_name":"日本人",
+            "subj_name":"LFAD",
             "qkey":"sub4",
             "qk":[
                 {
-                    "qname":"Hiragana",
+                    "qname":"Q1 - 28 Questions",
+                    "qlk":"LFAD_Q1"
+                },
+                {
+                    "qname":"Q2 - 30 Questions",
+                    "qlk":"LFAD_Q2"
+                }
+            ]
+        },{
+            "subj_name":"日本人",
+            "qkey":"sub10",
+            "qk":[
+                {
+                    "qname":"Hiragana - 38 Questions",
                     "qlk":"ひらがな"
                 }
             ]
