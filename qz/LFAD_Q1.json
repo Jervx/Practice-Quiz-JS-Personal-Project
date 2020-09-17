@@ -20,7 +20,7 @@
 			"answer":["SUSE LINUX"," SUSE"]
 		},		{
 			"question":"'Software und System-Entwicklung' in english",
-			"answer":["software and systems development"]
+			"answer":["software and systems development","software and system development"]
 		},		{
 			"question":"SUSE first version appeared in early _______",
 			"answer":["1994"]
@@ -50,7 +50,7 @@
 			"answer":["Free Software or Libre Software"," Free Software","Libre Software"]
 		},		{
 			"question":"_______ ______ define how a computer stores files, switches between different applications, manages memory, keeps itself secure, and interacts with peripherals like printers and cameras.",
-			"answer":["Operating systems"]
+			"answer":["Operating systems","Operating system"]
 		},		{
 			"question":"What does SLED stands for?",
 			"answer":["SUSE LINUX Enterprise Desktop"]

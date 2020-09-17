@@ -87,9 +87,6 @@
 		},		{
 			"question":"Is the top-most directory of the le system. All other les and  directories exist in this directory or one of its sub-directories.",
 			"answer":["root directory"]
-		},		{
-			"question":"",
-			"answer":["x"]
 		}
     ]
 }

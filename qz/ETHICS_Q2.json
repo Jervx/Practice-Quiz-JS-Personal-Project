@@ -78,6 +78,18 @@
 		},		{
 			"question":"________ - My capacity for reason opens another possibility, that of acting according to laws other than the laws of nature: the laws I give myself. This reason, “pure practical reason”, legislates a priori– regardless of all empirical ends.",
 			"answer":["Autonomy vs. heteronomy"]
+		},{
+			"question":"________ ______ - uses instrumental reason: If I want X, I must do Y. (If I want to stay out of jail, I must be a good citizen and not rob banks.) Hypothetical Imperative is always conditional.",
+			"answer":["Hypothetical Imperative"]
+		},		{
+			"question":"If the action would be good solely as a means to something else, the imperative is ________",
+			"answer":["Hypothetical","Hypothetical Imperative"]
+		},		{
+			"question":"If the action is represented as good in itself, and therefore necessary for a will which of itself accords with reason, the imperative is",
+			"answer":["Categorical","Categorical Imperative"]
+		},		{
+			"question":"",
+			"answer":["x"]
 		}
 	]
 }
