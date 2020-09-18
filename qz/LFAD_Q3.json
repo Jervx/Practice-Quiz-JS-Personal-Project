@@ -1,0 +1,74 @@
+{
+    "Quiz_Questions":[
+        {
+			"question":"This logical division of files is maintained in hundreds  of directories that are located in larger containers  called",
+			"answer":["File System"]
+		},		{
+			"question":"_____-______ file systems are created on  physical media such as a hard disk.​",
+			"answer":["Disk Based","Disk-Based"]
+		},		{
+			"question":"_____-_______ file systems, also called virtual  file system, are created at system boot up and  destroyed at shut down.​",
+			"answer":["Memory- based"," Memory Based"]
+		},		{
+			"question":"The ______ refers to file contents that are not usually modified",
+			"answer":["Static"]
+		},		{
+			"question":"_______ normally contain cmds, lib routines, kernel files,  devices files, etc.​",
+			"answer":["Static dir"]
+		},		{
+			"question":"The Dynamic or _______ _____ refers to file contents that are  modified as required.​",
+			"answer":["variable data"]
+		},		{
+			"question":"Essential User Command Binaries",
+			"answer":["/bin/"]
+		},		{
+			"question":"Static Files Of The Boot Loader",
+			"answer":["/boot/"]
+		},		{
+			"question":"Device Files",
+			"answer":["/dev/"]
+		},		{
+			"question":"Host-Specific System Configuration",
+			"answer":["/etc/"]
+		},		{
+			"question":"User Home directories",
+			"answer":["/home/"]
+		},		{
+			"question":"Essential shared libraries and kernel modules",
+			"answer":["/lib/"]
+		},		{
+			"question":"Mount point for removable media",
+			"answer":["/media/"]
+		},		{
+			"question":"Mount point for temporary mounted file systems",
+			"answer":["/mnt/"]
+		},		{
+			"question":"Add-on application software packages",
+			"answer":["/opt/"]
+		},		{
+			"question":"System Binaries",
+			"answer":["/sbin/"]
+		},		{
+			"question":"Data for service provided by this systems",
+			"answer":["/srv/"]
+		},		{
+			"question":"temporary files",
+			"answer":["/tmp/"]
+		},		{
+			"question":"User Utilities and application",
+			"answer":["/usr/"]
+		},		{
+			"question":"Variable Files",
+			"answer":["/var/"]
+		},		{
+			"question":"Home Directory For the root User",
+			"answer":["/root/"]
+		},		{
+			"question":"Virtual filesystem Documenting Kernel and process status as text files",
+			"answer":["/proc/"]
+		},		{
+			"question":"This directory contains crucial user executable  commands.​<br>This directory holds static data files.​",
+			"answer":["/bin","/bin/","binary"]
+		}
+    ]
+}

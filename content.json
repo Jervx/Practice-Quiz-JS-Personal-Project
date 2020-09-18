@@ -57,6 +57,10 @@
                 {
                     "qname":"Q2 - 30 Questions",
                     "qlk":"LFAD_Q2"
+                },
+                {
+                    "qname":"Q3 - 22 Questions",
+                    "qlk":"LFAD_Q3"
                 }
             ]
         },{
