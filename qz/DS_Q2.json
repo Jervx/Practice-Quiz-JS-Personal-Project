@@ -1,0 +1,92 @@
+{
+    "Subj_Name": "",
+    "Quiz_Details": "Data Structures",
+    "Quiz_No": "Quiz 2",
+    "Quiz_Questions": [
+        {
+            "question":"A ___________ refers to a single unit of values. E.g. Roll Number, Name, Date of Birth, Age etc. ",
+            "answer":["Data Item","Data Items"]
+        },{
+            "question":"Give 2 types of data items. Separate answer with comma",
+            "answer":["Group Items,Elementary Items","Elementary Items,Group Items"]
+        },{
+            "question":"Data items that can be divided into sub-items are called ‘______ ______’. E.g. the name of a person is a group item because it can be divided into three sub-items: First Name, Middle Initial and Last Name. Other examples are: Address, Date, Qualification, Salary etc.",
+            "answer":["Group Items","Group Item"]
+        },{
+            "question":"Data items that cannot be divided into sub-items are called ‘______ ______’. E.g. the roll number of a student is an elementary item because it cannot be divided further into sub-items. Other examples are: Marks, Age etc.",
+            "answer":["Elementary Items","Elementary Item"]
+        },{
+            "question":"True or False<br>classification of data structure consists of Primitive data structure and Non-primitive data structure",
+            "answer":["True"]
+        },{
+            "question":"The ____ _____ _______ are known as basic data structures.",
+            "answer":["primitive data structures","primitive data structure"]
+        },{
+            "question":"__________ data structures are directly operated upon by the machine instructions.",
+            "answer":["Primitive"]
+        },{
+            "question":"Normally, _______ data structures have different representation on different computers.",
+            "answer":["primitive"]
+        },{
+            "question":"True or False:<br> Example of primitive data structure are Integer, Float, Characters, Pointer",
+            "answer":["True"]
+        },{
+            "question":"The __________ data structures are highly developed complex data structures",
+            "answer":["non-primitive","non primitive"]
+        },{
+            "question":"True or False:<br> The non-primitive data structure is responsible for organizing the group of homogeneous and heterogeneous data elements.",
+            "answer":["True"]
+        },{
+            "question":"True or False:<br> Non-primitive data structures are not developed from primitive data structure.",
+            "answer":["False"]
+        },{
+            "question":"True or False:<br> Arrays, List, Files are example of Non-Primitive Data Structure?",
+            "answer":["True"]
+        },{
+            "question": "______ - refers to logical collection of data, collection of data that defines the structures being used.",
+            "answer": ["Data Structures","Data Structure"]
+        },{
+            "question": "________ - is the term used to refer to the kinds of data that a variable may “hold” in a given programming language.",
+            "answer": ["Data Type"]
+        },{
+            "question":"True or False:<br> Simple data structures are not programmed using primitive data types",
+            "answer":["false"]
+        },{
+            "question":"__________ Data Structure use composite or user-defined data types.",
+            "answer":["complex"]
+        },{
+            "question":"True or Fase: INFORMATION -> Processed data?",
+            "answer":["True"]
+        },{
+            "question":"True or False:<br> DATA ITEM/FIELD -> Smallest unit of information",
+            "answer":["True"]
+        },{
+            "question":"These are Item that can be subdivided",
+            "answer":["Group Item","Group Items"]
+        },{
+            "question":"These are item that Could not be divided into sub item",
+            "answer":["Elementary Item","Elementary Items"]
+        },{
+            "question":"Is a collection of related data items or fields",
+            "answer":["Records"]
+        },{
+            "question":"Is a collection of related records",
+            "answer":["File","Files"]
+        },{
+            "question":"Is something that has certain properties",
+            "answer":["Entity"]
+        },{
+            "question":"Is a property of an entity",
+            "answer":["Attribute","Attributes"]
+        },{
+            "question":"Is a set of values that the variable may assume",
+            "answer":["Data Type"]
+        },{
+            "question":"It is elements from a sequence",
+            "answer":["Linear"]
+        },{
+            "question":"Trees/graphics",
+            "answer":["Non-Linear","Non Linear"]
+        }
+    ]
+}

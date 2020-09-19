@@ -64,8 +64,29 @@
                 }
             ]
         },{
+            "subj_name":"DSAA",
+            "qkey":"sub5",
+            "qk":[
+                {
+                    "qname":"DSAA - 24 Questions",
+                    "qlk":"DS_Q1"
+                },{
+                    "qname":"DSAA - 27 Questions",
+                    "qlk":"DS_Q2"
+                },{
+                    "qname":"DSAA - 15 Questions",
+                    "qlk":"DS_Q3"
+                },{
+                    "qname":"DSAA - 21 Questions",
+                    "qlk":"DS_Q4"
+                },{
+                    "qname":"DSAA - 22 Questions",
+                    "qlk":"DS_Q5"
+                }
+            ]
+        },{
             "subj_name":"日本人",
-            "qkey":"sub10",
+            "qkey":"sub9999",
             "qk":[
                 {
                     "qname":"Hiragana - 38 Questions",
